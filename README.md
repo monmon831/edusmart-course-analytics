@@ -190,4 +190,4 @@ edusmart-course-analytics/
 
 Proyek ini dibuat sebagai portofolio Data Analyst — mensimulasikan proyek freelance nyata dari awal (project brief & dashboard specification) hingga akhir (dashboard interaktif & laporan rekomendasi).
 
-*Feedback dan diskusi terbuka lewat [LinkedIn/Email — isi sesuai profil Anda].*
+*Feedback dan diskusi terbuka lewat [alishamonifa3@gmail.com].*
