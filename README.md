@@ -99,7 +99,6 @@ Dashboard Power BI interaktif dengan **5 halaman**, dibangun mengikuti spesifika
 - Filter tersembunyi (page-level, berlaku di semua halaman): bahasa kursus
 - Tombol **Reset Filter** di setiap halaman
 
-```
 ### 1. Ikhtisar
 
 ![EduSmart Dashboard - Ikhtisar](dashboard/screenshots/EduSmart_Dashboard_page-0001.jpg)
@@ -119,7 +118,6 @@ Dashboard Power BI interaktif dengan **5 halaman**, dibangun mengikuti spesifika
 ### 5. Kinerja Instruktur
 
 ![EduSmart Dashboard - Kinerja Instruktur](dashboard/screenshots/EduSmart_Dashboard_page-0005.jpg)
-```
 
 ---
 
