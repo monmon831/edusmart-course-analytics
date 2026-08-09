@@ -100,11 +100,11 @@ Dashboard Power BI interaktif dengan **5 halaman**, dibangun mengikuti spesifika
 - Tombol **Reset Filter** di setiap halaman
 
 ```
-![Uploading EduSmart_Dashboard_page-0001.jpg…]()
-![Uploading EduSmart_Dashboard_page-0002.jpg…]()
-![Uploading EduSmart_Dashboard_page-0003.jpg…]()
-![Uploading EduSmart_Dashboard_page-0004.jpg…]()
-![Uploading EduSmart_Dashboard_page-0005.jpg…]()
+<img width="2075" height="1200" alt="EduSmart_Dashboard_page-0001" src="https://github.com/user-attachments/assets/89661dd8-c4e5-44a9-8018-a334a52bc7c0" />
+<img width="2075" height="1200" alt="EduSmart_Dashboard_page-0002" src="https://github.com/user-attachments/assets/d898ebcf-f162-4c7e-908a-810ff309148c" />
+<img width="2075" height="1200" alt="EduSmart_Dashboard_page-0003" src="https://github.com/user-attachments/assets/1bd2b828-649b-4343-8d50-e63b1787a536" />
+<img width="2075" height="1200" alt="EduSmart_Dashboard_page-0004" src="https://github.com/user-attachments/assets/52378874-5d29-42d9-9825-a06b88611329" />
+<img width="2075" height="1200" alt="EduSmart_Dashboard_page-0005" src="https://github.com/user-attachments/assets/9cae42e1-ec5f-49ee-b4b9-53d6fde03c9b" />
 ```
 
 ---
