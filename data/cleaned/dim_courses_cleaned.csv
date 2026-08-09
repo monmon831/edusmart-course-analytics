@@ -1,0 +1,301 @@
+course_id,course_name,category,instructor_id,level,price,total_modules,publish_date,language
+1,Graphic Design dengan Figma,Design,49,Beginner,499000,12,2024-04-08,Indonesia
+2,Manajemen Proyek Agile,Business,25,Intermediate,299000,10,2024-11-09,English
+3,Digital Marketing Fundamentals,Marketing,35,Intermediate,499000,5,2025-02-24,Indonesia
+4,Machine Learning Fundamentals - Batch 1,Data Science,47,Advanced,199000,10,2024-05-28,Indonesia
+5,Big Data Fundamentals,Data Science,33,Advanced,149000,8,2024-04-26,Indonesia
+6,Bahasa Jepang Dasar,Language,60,Advanced,0,12,2023-06-04,Indonesia
+7,Fotografi untuk Pemula,Photography,57,Intermediate,149000,5,2024-06-09,Indonesia
+8,UI/UX Design Fundamentals,Design,53,Beginner,499000,5,2026-02-11,Indonesia
+9,Entrepreneurship Fundamentals - Batch 5,Business,56,Advanced,249000,12,2025-09-14,Indonesia
+10,Desain Grafis untuk Pemula,Design,42,Intermediate,249000,10,2023-04-02,English
+11,SQL untuk Data Analyst - Batch 1,Data Science,38,Advanced,149000,7,2022-12-02,Indonesia
+12,Belajar Python untuk Pemula - Batch 1,Programming,56,Intermediate,0,4,2024-08-09,Indonesia
+13,Content Marketing Strategy,Marketing,47,Advanced,299000,7,2025-01-24,English
+14,Motion Graphics Basic - Batch 1,Design,43,Intermediate,199000,10,2023-11-25,English
+15,Critical Thinking Skills,Personal Development,42,Beginner,0,4,2025-10-16,English
+16,Bahasa Inggris untuk Pemula - Batch 5,Language,29,Beginner,249000,7,2025-07-12,Indonesia
+17,Content Marketing Strategy,Marketing,5,Intermediate,499000,7,2025-03-22,Indonesia
+18,Belajar Git & GitHub,Programming,6,Beginner,149000,12,2023-06-20,English
+19,Videografi Dasar,Photography,58,Beginner,149000,7,2023-05-14,English
+20,Mobile App Development Flutter,Programming,51,Intermediate,199000,8,2022-09-06,English
+21,Editing Foto dengan Lightroom - Batch 1,Photography,38,Advanced,299000,7,2023-07-19,Indonesia
+22,Bahasa Inggris untuk Pemula,Language,33,Advanced,149000,4,2024-06-12,Indonesia
+23,SQL untuk Data Analyst,Data Science,44,Beginner,249000,5,2025-11-30,Indonesia
+24,UI/UX Design Fundamentals,Design,38,Advanced,299000,5,2022-11-15,Indonesia
+25,Social Media Marketing - Batch 4,Marketing,9,Advanced,349000,9,2024-03-17,Indonesia
+26,Fotografi Produk - Batch 5,Photography,37,Beginner,0,5,2025-01-19,Indonesia
+27,Social Media Marketing,Marketing,57,Beginner,199000,9,2023-05-08,Indonesia
+28,Entrepreneurship Fundamentals,Business,40,Advanced,299000,12,2025-04-24,Indonesia
+29,Digital Marketing Fundamentals - Batch 1,Marketing,48,Advanced,149000,6,2024-07-09,Indonesia
+30,Social Media Marketing - Batch 3,Marketing,33,Intermediate,199000,9,2023-07-17,Indonesia
+31,Big Data Fundamentals,Data Science,3,Beginner,199000,10,2025-02-26,Indonesia
+32,Social Media Marketing,Marketing,28,Advanced,0,11,2022-08-10,Indonesia
+33,Big Data Fundamentals,Data Science,54,Intermediate,299000,6,2025-07-11,Indonesia
+34,Manajemen Waktu Efektif,Personal Development,58,Beginner,199000,4,2025-08-08,Indonesia
+35,UI/UX Design Fundamentals,Design,57,Intermediate,299000,9,2023-01-02,Indonesia
+36,Graphic Design dengan Figma,Design,2,Beginner,349000,6,2024-04-01,Indonesia
+37,Manajemen Waktu Efektif - Batch 1,Personal Development,25,Beginner,499000,8,2023-04-11,English
+38,Graphic Design dengan Figma,Design,53,Beginner,149000,11,2026-05-03,Indonesia
+39,Motion Graphics Basic - Batch 1,Design,50,Intermediate,199000,9,2024-08-12,English
+40,Bahasa Inggris untuk Pemula,Language,17,Beginner,299000,5,2022-10-13,Indonesia
+41,Belajar Python untuk Pemula,Programming,51,Intermediate,249000,10,2023-07-25,Indonesia
+42,Manajemen Waktu Efektif - Batch 4,Personal Development,1,Advanced,499000,8,2025-11-28,Indonesia
+43,English for Business,Language,59,Intermediate,299000,5,2024-05-16,Indonesia
+44,Big Data Fundamentals,Data Science,43,Intermediate,199000,8,2025-09-22,English
+45,Social Media Marketing,Marketing,25,Advanced,349000,7,2025-03-14,Indonesia
+46,Content Marketing Strategy,Marketing,20,Intermediate,149000,12,2026-06-15,English
+47,English for Business,Language,14,Advanced,249000,11,2024-12-01,Indonesia
+48,Machine Learning Fundamentals,Data Science,40,Intermediate,0,12,2026-04-22,Indonesia
+49,Social Media Marketing - Batch 1,Marketing,16,Intermediate,299000,7,2026-01-28,Indonesia
+50,Videografi Dasar,Photography,25,Intermediate,249000,7,2024-12-26,Indonesia
+51,Financial Analysis untuk Manajer,Business,15,Beginner,499000,5,2025-05-27,English
+52,Backend Development Node.js,Programming,8,Intermediate,149000,7,2024-07-24,English
+53,English for Business,Language,59,Advanced,249000,12,2025-11-02,Indonesia
+54,Videografi Dasar,Photography,54,Advanced,199000,8,2024-09-24,English
+55,Desain Grafis untuk Pemula - Batch 3,Design,16,Intermediate,199000,11,2026-02-06,Indonesia
+56,SQL untuk Data Analyst - Batch 2,Data Science,46,Beginner,0,6,2025-07-01,English
+57,Leadership Fundamentals,Personal Development,4,Beginner,499000,12,2024-06-11,English
+58,Public Speaking Mastery,Personal Development,23,Intermediate,499000,10,2023-08-08,English
+59,Manajemen Waktu Efektif - Batch 4,Personal Development,32,Beginner,249000,11,2023-07-22,Indonesia
+60,Manajemen Waktu Efektif,Personal Development,40,Advanced,0,11,2025-01-30,English
+61,Belajar Python untuk Pemula - Batch 4,Programming,12,Beginner,199000,10,2025-08-02,English
+62,Bahasa Jepang Dasar,Language,49,Intermediate,199000,11,2024-08-17,English
+63,Digital Marketing Fundamentals - Batch 5,Marketing,4,Intermediate,149000,11,2025-01-15,Indonesia
+64,Belajar Python untuk Pemula - Batch 1,Programming,40,Beginner,149000,7,2023-08-30,Indonesia
+65,Fotografi untuk Pemula,Photography,17,Intermediate,149000,7,2022-11-21,Indonesia
+66,Business Strategy 101,Business,60,Intermediate,299000,5,2023-09-15,English
+67,Manajemen Waktu Efektif,Personal Development,54,Advanced,149000,5,2023-08-26,Indonesia
+68,Digital Marketing Fundamentals,Marketing,28,Advanced,199000,4,2023-11-03,Indonesia
+69,Bahasa Inggris untuk Pemula,Language,7,Intermediate,199000,10,2024-09-13,English
+70,Entrepreneurship Fundamentals,Business,42,Intermediate,299000,6,2023-02-16,English
+71,Videografi Dasar,Photography,16,Beginner,199000,8,2023-06-29,English
+72,Motion Graphics Basic,Design,32,Intermediate,149000,10,2025-04-21,English
+73,Desain Grafis untuk Pemula,Design,57,Advanced,349000,8,2025-05-09,Indonesia
+74,Backend Development Node.js - Batch 4,Programming,32,Advanced,499000,7,2022-11-02,Indonesia
+75,Videografi Dasar,Photography,6,Intermediate,149000,11,2024-03-07,English
+76,Desain Grafis untuk Pemula,Design,34,Intermediate,249000,9,2024-09-16,Indonesia
+77,English for Business,Language,15,Beginner,349000,8,2024-03-19,Indonesia
+78,Bahasa Inggris untuk Pemula,Language,45,Beginner,149000,12,2023-05-25,Indonesia
+79,Fotografi Produk,Photography,7,Beginner,199000,12,2024-03-25,Indonesia
+80,Bahasa Jepang Dasar - Batch 5,Language,9,Intermediate,0,8,2026-02-16,Indonesia
+81,Social Media Marketing - Batch 1,Marketing,37,Intermediate,249000,11,2024-11-15,English
+82,Fotografi Produk,Photography,17,Intermediate,0,6,2025-04-23,Indonesia
+83,Critical Thinking Skills,Personal Development,44,Beginner,149000,5,2025-12-10,Indonesia
+84,Digital Marketing Fundamentals - Batch 4,Marketing,39,Advanced,499000,7,2025-08-01,Indonesia
+85,Critical Thinking Skills - Batch 5,Personal Development,28,Intermediate,299000,11,2024-01-28,Indonesia
+86,SQL untuk Data Analyst - Batch 1,Data Science,11,Beginner,149000,7,2022-08-11,Indonesia
+87,Financial Analysis untuk Manajer,Business,39,Intermediate,199000,10,2023-12-19,Indonesia
+88,Desain Grafis untuk Pemula,Design,30,Beginner,349000,8,2025-07-15,Indonesia
+89,Social Media Marketing - Batch 2,Marketing,42,Beginner,199000,10,2025-12-05,Indonesia
+90,Data Analysis dengan Python,Data Science,39,Advanced,499000,6,2026-04-27,Indonesia
+91,Fotografi untuk Pemula,Photography,45,Intermediate,199000,11,2024-03-24,English
+92,Fotografi untuk Pemula,Photography,48,Intermediate,299000,4,2025-07-06,Indonesia
+93,Belajar Python untuk Pemula,Programming,54,Advanced,299000,7,2024-09-21,Indonesia
+94,Digital Marketing Fundamentals,Marketing,42,Intermediate,199000,6,2024-12-12,Indonesia
+95,Critical Thinking Skills,Personal Development,27,Intermediate,199000,5,2023-06-14,Indonesia
+96,Business Strategy 101,Business,19,Advanced,249000,10,2023-06-12,Indonesia
+97,Fotografi untuk Pemula - Batch 1,Photography,50,Intermediate,499000,9,2024-04-17,Indonesia
+98,Videografi Dasar - Batch 3,Photography,40,Intermediate,349000,4,2022-09-13,English
+99,Web Development dengan React,Programming,60,Intermediate,249000,8,2023-11-26,English
+100,Data Analysis dengan Python,Data Science,20,Advanced,0,7,2025-03-31,English
+101,SQL untuk Data Analyst,Data Science,8,Advanced,499000,5,2024-03-03,Indonesia
+102,Fotografi Produk,Photography,27,Intermediate,249000,12,2023-03-27,Indonesia
+103,Editing Foto dengan Lightroom - Batch 5,Photography,33,Advanced,149000,10,2024-06-01,Indonesia
+104,Content Marketing Strategy,Marketing,33,Intermediate,499000,9,2023-02-01,Indonesia
+105,SEO untuk Pemula,Marketing,29,Advanced,249000,11,2025-01-08,Indonesia
+106,English for Business,Language,56,Beginner,349000,11,2022-09-10,Indonesia
+107,Manajemen Waktu Efektif - Batch 4,Personal Development,46,Intermediate,249000,10,2024-02-17,Indonesia
+108,Fotografi untuk Pemula,Photography,38,Intermediate,499000,6,2024-10-18,Indonesia
+109,Fotografi untuk Pemula,Photography,1,Advanced,149000,12,2022-09-10,English
+110,Financial Analysis untuk Manajer,Business,17,Intermediate,299000,11,2025-02-07,English
+111,Machine Learning Fundamentals,Data Science,21,Advanced,349000,12,2023-02-13,English
+112,Backend Development Node.js - Batch 3,Programming,15,Advanced,0,5,2024-05-24,English
+113,Big Data Fundamentals,Data Science,45,Intermediate,0,5,2022-10-13,Indonesia
+114,Bahasa Inggris untuk Pemula,Language,28,Beginner,149000,8,2024-01-27,English
+115,Manajemen Proyek Agile - Batch 4,Business,40,Advanced,149000,6,2023-06-01,English
+116,Manajemen Proyek Agile,Business,30,Intermediate,349000,11,2023-11-13,Indonesia
+117,Fotografi Produk - Batch 4,Photography,23,Advanced,199000,12,2025-07-26,English
+118,Content Marketing Strategy - Batch 4,Marketing,55,Intermediate,0,8,2024-01-27,Indonesia
+119,Leadership Fundamentals,Personal Development,19,Beginner,499000,8,2025-07-13,English
+120,Digital Marketing Fundamentals,Marketing,48,Intermediate,499000,4,2025-11-04,Indonesia
+121,Desain Grafis untuk Pemula,Design,40,Intermediate,349000,7,2023-07-29,Indonesia
+122,Big Data Fundamentals,Data Science,29,Beginner,299000,4,2022-11-28,Indonesia
+123,Financial Analysis untuk Manajer,Business,27,Beginner,149000,8,2022-08-30,Indonesia
+124,Bahasa Mandarin Percakapan - Batch 4,Language,52,Intermediate,349000,6,2024-09-12,Indonesia
+125,Data Visualization dengan Power BI - Batch 2,Data Science,56,Advanced,349000,5,2026-07-02,English
+126,Bahasa Inggris untuk Pemula - Batch 5,Language,8,Intermediate,199000,10,2023-12-16,Indonesia
+127,Leadership Fundamentals,Personal Development,31,Beginner,299000,5,2025-02-17,Indonesia
+128,UI/UX Design Fundamentals,Design,20,Advanced,249000,11,2025-08-24,Indonesia
+129,Financial Analysis untuk Manajer,Business,32,Beginner,0,4,2025-02-20,Indonesia
+130,Entrepreneurship Fundamentals,Business,48,Advanced,299000,11,2025-07-16,English
+131,Entrepreneurship Fundamentals,Business,40,Intermediate,199000,5,2026-04-21,Indonesia
+132,Bahasa Jepang Dasar,Language,16,Intermediate,0,11,2023-05-15,Indonesia
+133,Bahasa Inggris untuk Pemula - Batch 1,Language,55,Intermediate,0,10,2022-09-01,Indonesia
+134,Belajar Python untuk Pemula - Batch 2,Programming,51,Advanced,149000,9,2023-03-08,Indonesia
+135,Graphic Design dengan Figma,Design,10,Advanced,0,7,2023-01-30,Indonesia
+136,Manajemen Proyek Agile - Batch 2,Business,8,Advanced,499000,12,2025-03-17,Indonesia
+137,Financial Analysis untuk Manajer,Business,16,Advanced,199000,9,2024-10-17,Indonesia
+138,Business Strategy 101 - Batch 4,Business,34,Beginner,349000,4,2023-06-10,Indonesia
+139,Videografi Dasar,Photography,7,Intermediate,299000,9,2025-04-29,Indonesia
+140,Belajar Git & GitHub,Programming,42,Beginner,0,12,2025-08-03,English
+141,Critical Thinking Skills,Personal Development,59,Intermediate,0,5,2023-03-30,Indonesia
+142,Bahasa Jepang Dasar - Batch 5,Language,41,Advanced,299000,5,2024-12-18,Indonesia
+143,Leadership Fundamentals,Personal Development,28,Beginner,499000,11,2025-07-07,Indonesia
+144,Motion Graphics Basic,Design,27,Intermediate,499000,11,2023-01-13,English
+145,Critical Thinking Skills,Personal Development,21,Advanced,199000,5,2025-10-17,Indonesia
+146,Entrepreneurship Fundamentals - Batch 1,Business,6,Intermediate,0,5,2026-05-13,Indonesia
+147,Akuntansi Dasar untuk Bisnis,Business,36,Advanced,199000,4,2023-01-04,Indonesia
+148,Leadership Fundamentals,Personal Development,47,Beginner,199000,10,2022-09-08,Indonesia
+149,Bahasa Inggris untuk Pemula - Batch 4,Language,15,Beginner,199000,12,2023-10-23,Indonesia
+150,Machine Learning Fundamentals,Data Science,55,Advanced,499000,7,2025-03-28,Indonesia
+151,Digital Marketing Fundamentals - Batch 3,Marketing,59,Intermediate,199000,6,2026-05-04,Indonesia
+152,Manajemen Proyek Agile - Batch 1,Business,6,Advanced,299000,10,2024-02-21,Indonesia
+153,Critical Thinking Skills,Personal Development,24,Intermediate,349000,11,2025-05-21,Indonesia
+154,Data Analysis dengan Python - Batch 5,Data Science,4,Advanced,0,6,2022-11-19,Indonesia
+155,Videografi Dasar,Photography,27,Intermediate,149000,11,2025-04-16,Indonesia
+156,English for Business - Batch 5,Language,32,Advanced,349000,5,2025-01-15,Indonesia
+157,Web Development dengan React,Programming,4,Beginner,149000,10,2022-12-26,Indonesia
+158,Graphic Design dengan Figma - Batch 1,Design,1,Intermediate,349000,8,2025-08-11,English
+159,Manajemen Proyek Agile,Business,15,Advanced,299000,10,2025-11-30,Indonesia
+160,Data Visualization dengan Power BI,Data Science,30,Beginner,499000,4,2024-12-08,Indonesia
+161,Critical Thinking Skills - Batch 4,Personal Development,2,Intermediate,149000,10,2023-01-23,English
+162,Bahasa Inggris untuk Pemula,Language,16,Intermediate,299000,10,2026-06-09,English
+163,Data Visualization dengan Power BI,Data Science,15,Intermediate,499000,8,2025-08-26,Indonesia
+164,Statistik untuk Data Science,Data Science,13,Intermediate,199000,5,2023-12-12,Indonesia
+165,UI/UX Design Fundamentals - Batch 2,Design,39,Beginner,499000,6,2024-04-06,Indonesia
+166,Entrepreneurship Fundamentals,Business,49,Advanced,249000,11,2024-01-14,Indonesia
+167,Bahasa Jepang Dasar - Batch 4,Language,41,Intermediate,499000,11,2024-07-26,Indonesia
+168,Java Programming Fundamentals - Batch 4,Programming,29,Beginner,0,12,2023-12-03,Indonesia
+169,Digital Marketing Fundamentals,Marketing,33,Intermediate,249000,5,2025-11-29,Indonesia
+170,Editing Foto dengan Lightroom,Photography,33,Beginner,0,9,2025-10-21,English
+171,Machine Learning Fundamentals,Data Science,12,Beginner,149000,5,2022-12-31,English
+172,Editing Foto dengan Lightroom,Photography,19,Intermediate,249000,9,2026-05-07,Indonesia
+173,Belajar Git & GitHub - Batch 1,Programming,36,Advanced,249000,9,2025-01-27,Indonesia
+174,Social Media Marketing - Batch 2,Marketing,59,Intermediate,199000,9,2025-10-31,English
+175,Akuntansi Dasar untuk Bisnis,Business,25,Advanced,499000,5,2025-05-10,Indonesia
+176,Akuntansi Dasar untuk Bisnis,Business,28,Advanced,199000,5,2024-04-16,Indonesia
+177,Bahasa Mandarin Percakapan,Language,22,Intermediate,149000,6,2025-06-17,Indonesia
+178,Manajemen Proyek Agile - Batch 1,Business,33,Advanced,499000,5,2026-05-14,Indonesia
+179,Bahasa Jepang Dasar - Batch 2,Language,54,Advanced,499000,10,2023-08-24,Indonesia
+180,Fotografi untuk Pemula,Photography,47,Beginner,249000,10,2025-10-01,Indonesia
+181,Editing Foto dengan Lightroom - Batch 4,Photography,58,Beginner,199000,12,2024-09-10,English
+182,Fotografi Produk,Photography,27,Beginner,499000,10,2024-06-24,Indonesia
+183,Business Strategy 101,Business,56,Intermediate,299000,4,2024-04-16,Indonesia
+184,Machine Learning Fundamentals,Data Science,18,Intermediate,299000,5,2025-06-13,Indonesia
+185,Public Speaking Mastery,Personal Development,57,Intermediate,0,7,2023-08-21,English
+186,Mobile App Development Flutter,Programming,25,Beginner,199000,12,2025-12-02,Indonesia
+187,Java Programming Fundamentals,Programming,42,Intermediate,499000,5,2025-11-02,Indonesia
+188,Financial Analysis untuk Manajer,Business,31,Advanced,499000,8,2022-12-04,Indonesia
+189,Videografi Dasar,Photography,2,Intermediate,149000,4,2026-01-14,Indonesia
+190,Public Speaking Mastery - Batch 1,Personal Development,4,Beginner,249000,8,2023-07-17,English
+191,Data Analysis dengan Python,Data Science,2,Advanced,299000,11,2024-05-28,Indonesia
+192,Business Strategy 101 - Batch 3,Business,16,Advanced,249000,10,2024-12-22,Indonesia
+193,Statistik untuk Data Science - Batch 5,Data Science,35,Advanced,499000,9,2024-01-26,Indonesia
+194,Critical Thinking Skills,Personal Development,24,Intermediate,349000,4,2022-09-13,Indonesia
+195,Bahasa Inggris untuk Pemula - Batch 1,Language,50,Advanced,349000,9,2025-12-01,Indonesia
+196,Financial Analysis untuk Manajer,Business,53,Advanced,149000,9,2023-04-20,English
+197,Editing Foto dengan Lightroom - Batch 4,Photography,3,Intermediate,149000,6,2023-06-02,Indonesia
+198,UI/UX Design Fundamentals,Design,33,Intermediate,499000,9,2025-09-16,English
+199,Digital Marketing Fundamentals - Batch 1,Marketing,56,Advanced,199000,7,2023-12-02,Indonesia
+200,Machine Learning Fundamentals,Data Science,48,Intermediate,249000,10,2026-01-12,Indonesia
+201,Entrepreneurship Fundamentals,Business,52,Advanced,199000,11,2025-05-01,Indonesia
+202,Public Speaking Mastery,Personal Development,53,Beginner,299000,10,2023-09-02,Indonesia
+203,Bahasa Inggris untuk Pemula,Language,19,Intermediate,249000,5,2022-08-17,English
+204,Entrepreneurship Fundamentals,Business,47,Intermediate,299000,9,2026-04-19,English
+205,Digital Marketing Fundamentals,Marketing,26,Intermediate,299000,5,2022-12-03,Indonesia
+206,Web Development dengan React - Batch 1,Programming,16,Advanced,199000,11,2025-05-28,Indonesia
+207,Public Speaking Mastery,Personal Development,24,Intermediate,249000,6,2024-07-01,Indonesia
+208,Akuntansi Dasar untuk Bisnis,Business,42,Intermediate,149000,9,2025-07-22,Indonesia
+209,Belajar Git & GitHub,Programming,25,Advanced,0,6,2025-04-16,Indonesia
+210,Content Marketing Strategy,Marketing,19,Advanced,249000,7,2025-02-11,Indonesia
+211,SQL untuk Data Analyst,Data Science,58,Advanced,249000,5,2024-07-04,Indonesia
+212,Bahasa Mandarin Percakapan,Language,19,Intermediate,499000,5,2025-09-09,Indonesia
+213,Business Strategy 101 - Batch 2,Business,51,Beginner,149000,12,2022-12-14,English
+214,Java Programming Fundamentals,Programming,30,Advanced,149000,12,2023-06-15,Indonesia
+215,Machine Learning Fundamentals,Data Science,47,Intermediate,299000,10,2025-04-18,English
+216,Public Speaking Mastery,Personal Development,42,Beginner,249000,6,2023-10-14,English
+217,Bahasa Jepang Dasar,Language,12,Beginner,249000,12,2024-11-11,Indonesia
+218,Statistik untuk Data Science,Data Science,11,Intermediate,349000,6,2024-06-09,Indonesia
+219,Bahasa Mandarin Percakapan - Batch 5,Language,18,Beginner,349000,5,2024-08-31,Indonesia
+220,Statistik untuk Data Science,Data Science,38,Beginner,149000,6,2024-04-02,Indonesia
+221,Belajar Python untuk Pemula - Batch 5,Programming,17,Advanced,149000,5,2025-07-04,English
+222,Mobile App Development Flutter - Batch 3,Programming,31,Beginner,499000,12,2023-11-19,English
+223,Content Marketing Strategy,Marketing,11,Intermediate,249000,5,2025-05-04,English
+224,Editing Foto dengan Lightroom,Photography,21,Advanced,199000,9,2023-08-25,Indonesia
+225,Manajemen Waktu Efektif,Personal Development,7,Intermediate,149000,9,2023-07-28,English
+226,Machine Learning Fundamentals - Batch 1,Data Science,4,Intermediate,249000,11,2023-01-22,English
+227,Graphic Design dengan Figma,Design,47,Intermediate,149000,9,2023-05-05,Indonesia
+228,Videografi Dasar,Photography,32,Beginner,0,11,2023-01-20,English
+229,Editing Foto dengan Lightroom,Photography,4,Beginner,199000,7,2024-09-07,English
+230,Fotografi Produk - Batch 1,Photography,28,Beginner,199000,12,2025-07-27,Indonesia
+231,Leadership Fundamentals,Personal Development,37,Advanced,149000,4,2023-04-24,Indonesia
+232,Digital Marketing Fundamentals,Marketing,49,Advanced,199000,10,2023-06-08,Indonesia
+233,Financial Analysis untuk Manajer,Business,22,Advanced,199000,10,2024-06-25,Indonesia
+234,Motion Graphics Basic - Batch 1,Design,9,Advanced,199000,12,2025-06-04,English
+235,Editing Foto dengan Lightroom - Batch 5,Photography,21,Beginner,249000,12,2026-05-30,Indonesia
+236,English for Business,Language,2,Intermediate,199000,8,2024-08-22,Indonesia
+237,Leadership Fundamentals,Personal Development,17,Advanced,499000,4,2023-09-11,Indonesia
+238,Backend Development Node.js - Batch 5,Programming,50,Intermediate,149000,11,2022-12-24,Indonesia
+239,Backend Development Node.js - Batch 4,Programming,21,Intermediate,149000,5,2023-05-07,English
+240,Motion Graphics Basic,Design,59,Intermediate,499000,12,2023-06-24,Indonesia
+241,Akuntansi Dasar untuk Bisnis,Business,43,Intermediate,299000,7,2023-04-16,English
+242,Bahasa Jepang Dasar,Language,22,Advanced,199000,11,2022-08-23,Indonesia
+243,Editing Foto dengan Lightroom - Batch 3,Photography,15,Intermediate,499000,7,2024-09-04,Indonesia
+244,Motion Graphics Basic,Design,36,Advanced,199000,9,2023-08-30,Indonesia
+245,Statistik untuk Data Science,Data Science,26,Intermediate,499000,12,2026-05-27,Indonesia
+246,Digital Marketing Fundamentals,Marketing,6,Intermediate,249000,8,2024-10-02,Indonesia
+247,Editing Foto dengan Lightroom,Photography,18,Advanced,349000,7,2025-04-26,Indonesia
+248,Financial Analysis untuk Manajer - Batch 5,Business,15,Advanced,149000,7,2023-01-30,Indonesia
+249,Data Visualization dengan Power BI,Data Science,7,Advanced,499000,9,2025-12-26,Indonesia
+250,Backend Development Node.js,Programming,60,Intermediate,249000,6,2024-07-04,Indonesia
+251,SEO untuk Pemula,Marketing,59,Beginner,349000,8,2026-01-01,Indonesia
+252,Web Development dengan React,Programming,12,Beginner,499000,10,2024-10-31,English
+253,Editing Foto dengan Lightroom,Photography,1,Intermediate,299000,8,2024-06-04,Indonesia
+254,Bahasa Mandarin Percakapan,Language,35,Advanced,249000,11,2024-04-23,Indonesia
+255,Fotografi Produk,Photography,22,Beginner,349000,7,2023-04-23,English
+256,Social Media Marketing,Marketing,51,Intermediate,299000,4,2022-10-15,Indonesia
+257,Akuntansi Dasar untuk Bisnis,Business,33,Intermediate,0,10,2026-04-09,English
+258,SQL untuk Data Analyst,Data Science,60,Beginner,0,6,2024-06-16,Indonesia
+259,Manajemen Waktu Efektif,Personal Development,22,Intermediate,299000,11,2025-10-21,Indonesia
+260,SEO untuk Pemula - Batch 1,Marketing,30,Intermediate,149000,7,2024-02-27,English
+261,Digital Marketing Fundamentals,Marketing,15,Beginner,149000,8,2022-11-16,English
+262,Entrepreneurship Fundamentals,Business,36,Intermediate,499000,9,2025-01-19,Indonesia
+263,UI/UX Design Fundamentals,Design,46,Intermediate,0,12,2022-10-18,Indonesia
+264,Backend Development Node.js - Batch 5,Programming,10,Beginner,199000,12,2023-03-04,English
+265,Big Data Fundamentals,Data Science,32,Beginner,299000,7,2024-10-15,English
+266,Mobile App Development Flutter,Programming,30,Advanced,0,6,2023-10-11,English
+267,Digital Marketing Fundamentals - Batch 1,Marketing,48,Beginner,299000,10,2026-06-24,Indonesia
+268,Mobile App Development Flutter,Programming,35,Beginner,0,9,2023-01-19,English
+269,Java Programming Fundamentals - Batch 2,Programming,50,Advanced,349000,10,2025-07-31,English
+270,English for Business,Language,59,Intermediate,249000,11,2024-12-17,Indonesia
+271,Business Strategy 101 - Batch 5,Business,26,Advanced,149000,5,2025-09-06,Indonesia
+272,Belajar Python untuk Pemula,Programming,47,Advanced,249000,8,2023-06-21,English
+273,Graphic Design dengan Figma,Design,18,Beginner,349000,11,2024-08-19,Indonesia
+274,Belajar Git & GitHub,Programming,60,Beginner,149000,10,2024-05-08,Indonesia
+275,Data Analysis dengan Python,Data Science,44,Advanced,499000,4,2024-04-27,Indonesia
+276,UI/UX Design Fundamentals,Design,35,Beginner,499000,10,2025-12-15,Indonesia
+277,Akuntansi Dasar untuk Bisnis - Batch 5,Business,21,Advanced,299000,8,2026-06-18,Indonesia
+278,Desain Grafis untuk Pemula,Design,34,Beginner,249000,6,2023-10-13,Indonesia
+279,Digital Marketing Fundamentals,Marketing,57,Advanced,149000,12,2025-01-07,English
+280,Fotografi untuk Pemula,Photography,43,Intermediate,499000,9,2024-12-21,Indonesia
+281,Critical Thinking Skills - Batch 2,Personal Development,49,Advanced,249000,6,2025-06-26,Indonesia
+282,Desain Grafis untuk Pemula,Design,59,Beginner,299000,6,2026-04-19,English
+283,Manajemen Waktu Efektif - Batch 2,Personal Development,22,Advanced,0,10,2023-05-27,English
+284,Bahasa Inggris untuk Pemula,Language,13,Beginner,199000,12,2023-05-31,English
+285,Belajar Python untuk Pemula,Programming,38,Advanced,349000,7,2025-03-04,Indonesia
+286,Editing Foto dengan Lightroom,Photography,59,Beginner,149000,9,2023-03-15,Indonesia
+287,Big Data Fundamentals,Data Science,45,Advanced,349000,11,2023-04-08,Indonesia
+288,Manajemen Waktu Efektif,Personal Development,19,Intermediate,249000,12,2022-11-18,Indonesia
+289,SEO untuk Pemula,Marketing,32,Intermediate,0,9,2022-08-06,English
+290,Bahasa Jepang Dasar,Language,3,Advanced,499000,9,2024-05-08,Indonesia
+291,Financial Analysis untuk Manajer,Business,38,Advanced,349000,8,2024-11-29,English
+292,Social Media Marketing,Marketing,25,Advanced,499000,7,2023-09-23,Indonesia
+293,Fotografi Produk,Photography,32,Advanced,349000,8,2023-06-30,English
+294,Editing Foto dengan Lightroom - Batch 5,Photography,32,Beginner,299000,9,2025-05-09,Indonesia
+295,Belajar Python untuk Pemula,Programming,27,Beginner,499000,4,2025-05-04,Indonesia
+296,Big Data Fundamentals - Batch 5,Data Science,30,Intermediate,0,6,2024-05-13,English
+297,Fotografi untuk Pemula,Photography,27,Beginner,0,4,2025-04-11,Indonesia
+298,Digital Marketing Fundamentals,Marketing,44,Intermediate,499000,12,2026-03-16,Indonesia
+299,Data Analysis dengan Python - Batch 2,Data Science,40,Advanced,199000,12,2025-09-02,Indonesia
+300,Content Marketing Strategy,Marketing,26,Intermediate,299000,5,2025-01-12,Indonesia

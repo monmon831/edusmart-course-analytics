@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Power BI temp files
+*.pbix.bak

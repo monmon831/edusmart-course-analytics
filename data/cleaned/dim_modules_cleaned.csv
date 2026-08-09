@@ -1,0 +1,2468 @@
+module_id,course_id,module_order,module_title,duration_minutes
+1,1,1,Modul 1: Pengenalan & Overview,54.0
+2,1,2,Modul 2: Konsep Dasar,53.0
+3,1,3,Modul 3: Studi Kasus 1,15.0
+4,1,4,Modul 4: Praktik Langsung,51.0
+5,1,5,Modul 5: Studi Kasus 2,15.0
+6,1,6,Modul 6: Teknik Lanjutan,34.0
+7,1,7,Modul 7: Tools & Best Practices,13.0
+8,1,8,Modul 8: Project Mini,54.0
+9,1,9,Modul 9: Evaluasi & Quiz,41.0
+10,1,10,Modul 10: Studi Kasus Lanjutan,51.0
+11,1,11,Modul 11: Optimasi & Tips,46.0
+12,1,12,Modul 12: Final Project,16.0
+13,2,1,Modul 1: Pengenalan & Overview,12.0
+14,2,2,Modul 2: Konsep Dasar,54.0
+15,2,3,Modul 3: Studi Kasus 1,40.0
+16,2,4,Modul 4: Praktik Langsung,14.0
+17,2,5,Modul 5: Studi Kasus 2,27.0
+18,2,6,Modul 6: Teknik Lanjutan,46.0
+19,2,7,Modul 7: Tools & Best Practices,21.0
+20,2,8,Modul 8: Project Mini,32.77777777777778
+21,2,9,Modul 9: Evaluasi & Quiz,23.0
+22,2,10,Modul 10: Studi Kasus Lanjutan,58.0
+23,3,1,Modul 1: Pengenalan & Overview,35.0
+24,3,2,Modul 2: Konsep Dasar,29.0
+25,3,3,Modul 3: Studi Kasus 1,25.0
+26,3,4,Modul 4: Praktik Langsung,34.0
+27,3,5,Modul 5: Studi Kasus 2,44.0
+28,4,1,Modul 1: Pengenalan & Overview,58.0
+29,4,2,Modul 2: Konsep Dasar,60.0
+30,4,3,Modul 3: Studi Kasus 1,56.0
+31,4,4,Modul 4: Praktik Langsung,57.0
+32,4,5,Modul 5: Studi Kasus 2,13.0
+33,4,6,Modul 6: Teknik Lanjutan,24.0
+34,4,7,Modul 7: Tools & Best Practices,31.0
+35,4,8,Modul 8: Project Mini,49.0
+36,4,9,Modul 9: Evaluasi & Quiz,35.0
+37,4,10,Modul 10: Studi Kasus Lanjutan,30.0
+38,5,1,Modul 1: Pengenalan & Overview,27.0
+39,5,2,Modul 2: Konsep Dasar,38.0
+40,5,3,Modul 3: Studi Kasus 1,32.0
+41,5,4,Modul 4: Praktik Langsung,34.0
+42,5,5,Modul 5: Studi Kasus 2,53.0
+43,5,6,Modul 6: Teknik Lanjutan,34.0
+44,5,7,Modul 7: Tools & Best Practices,49.0
+45,5,8,Modul 8: Project Mini,25.0
+46,6,1,Modul 1: Pengenalan & Overview,15.0
+47,6,2,Modul 2: Konsep Dasar,34.0
+48,6,3,Modul 3: Studi Kasus 1,50.0
+49,6,4,Modul 4: Praktik Langsung,34.0
+50,6,5,Modul 5: Studi Kasus 2,16.0
+51,6,6,Modul 6: Teknik Lanjutan,29.0
+52,6,7,Modul 7: Tools & Best Practices,58.0
+53,6,8,Modul 8: Project Mini,18.0
+54,6,9,Modul 9: Evaluasi & Quiz,37.0
+55,6,10,Modul 10: Studi Kasus Lanjutan,45.0
+56,6,11,Modul 11: Optimasi & Tips,16.0
+57,6,12,Modul 12: Final Project,32.0
+58,7,1,Modul 1: Pengenalan & Overview,48.0
+59,7,2,Modul 2: Konsep Dasar,30.0
+60,7,3,Modul 3: Studi Kasus 1,10.0
+61,7,4,Modul 4: Praktik Langsung,34.0
+62,7,5,Modul 5: Studi Kasus 2,56.0
+63,8,1,Modul 1: Pengenalan & Overview,25.0
+64,8,2,Modul 2: Konsep Dasar,20.0
+65,8,3,Modul 3: Studi Kasus 1,20.0
+66,8,4,Modul 4: Praktik Langsung,29.0
+67,8,5,Modul 5: Studi Kasus 2,19.0
+68,9,1,Modul 1: Pengenalan & Overview,37.0
+69,9,2,Modul 2: Konsep Dasar,29.0
+70,9,3,Modul 3: Studi Kasus 1,14.0
+71,9,4,Modul 4: Praktik Langsung,25.0
+72,9,5,Modul 5: Studi Kasus 2,41.0
+73,9,6,Modul 6: Teknik Lanjutan,22.0
+74,9,7,Modul 7: Tools & Best Practices,18.0
+75,9,8,Modul 8: Project Mini,35.0
+76,9,9,Modul 9: Evaluasi & Quiz,49.0
+77,9,10,Modul 10: Studi Kasus Lanjutan,31.0
+78,9,11,Modul 11: Optimasi & Tips,37.0
+79,9,12,Modul 12: Final Project,51.0
+80,10,1,Modul 1: Pengenalan & Overview,18.0
+81,10,2,Modul 2: Konsep Dasar,48.0
+82,10,3,Modul 3: Studi Kasus 1,22.0
+83,10,4,Modul 4: Praktik Langsung,21.0
+84,10,5,Modul 5: Studi Kasus 2,30.0
+85,10,6,Modul 6: Teknik Lanjutan,54.0
+86,10,7,Modul 7: Tools & Best Practices,46.0
+87,10,8,Modul 8: Project Mini,30.0
+88,10,9,Modul 9: Evaluasi & Quiz,60.0
+89,10,10,Modul 10: Studi Kasus Lanjutan,17.0
+90,11,1,Modul 1: Pengenalan & Overview,22.0
+91,11,2,Modul 2: Konsep Dasar,44.0
+92,11,3,Modul 3: Studi Kasus 1,59.0
+93,11,4,Modul 4: Praktik Langsung,56.0
+94,11,5,Modul 5: Studi Kasus 2,55.0
+95,11,6,Modul 6: Teknik Lanjutan,28.0
+96,11,7,Modul 7: Tools & Best Practices,14.0
+97,12,1,Modul 1: Pengenalan & Overview,60.0
+98,12,2,Modul 2: Konsep Dasar,53.0
+99,12,3,Modul 3: Studi Kasus 1,50.0
+100,12,4,Modul 4: Praktik Langsung,26.0
+101,13,1,Modul 1: Pengenalan & Overview,55.0
+102,13,2,Modul 2: Konsep Dasar,34.0
+103,13,3,Modul 3: Studi Kasus 1,48.0
+104,13,4,Modul 4: Praktik Langsung,35.0
+105,13,5,Modul 5: Studi Kasus 2,54.0
+106,13,6,Modul 6: Teknik Lanjutan,12.0
+107,13,7,Modul 7: Tools & Best Practices,33.0
+108,14,1,Modul 1: Pengenalan & Overview,44.0
+109,14,2,Modul 2: Konsep Dasar,15.0
+110,14,3,Modul 3: Studi Kasus 1,25.0
+111,14,4,Modul 4: Praktik Langsung,32.0
+112,14,5,Modul 5: Studi Kasus 2,49.0
+113,14,6,Modul 6: Teknik Lanjutan,51.0
+114,14,7,Modul 7: Tools & Best Practices,35.0
+115,14,8,Modul 8: Project Mini,31.0
+116,14,9,Modul 9: Evaluasi & Quiz,37.0
+117,14,10,Modul 10: Studi Kasus Lanjutan,16.0
+118,15,1,Modul 1: Pengenalan & Overview,42.0
+119,15,2,Modul 2: Konsep Dasar,45.0
+120,15,3,Modul 3: Studi Kasus 1,46.0
+121,15,4,Modul 4: Praktik Langsung,33.0
+122,16,1,Modul 1: Pengenalan & Overview,59.0
+123,16,2,Modul 2: Konsep Dasar,54.0
+124,16,3,Modul 3: Studi Kasus 1,32.0
+125,16,4,Modul 4: Praktik Langsung,40.0
+126,16,5,Modul 5: Studi Kasus 2,36.0
+127,16,6,Modul 6: Teknik Lanjutan,15.0
+128,16,7,Modul 7: Tools & Best Practices,56.0
+129,17,1,Modul 1: Pengenalan & Overview,29.0
+130,17,2,Modul 2: Konsep Dasar,60.0
+131,17,3,Modul 3: Studi Kasus 1,40.0
+132,17,4,Modul 4: Praktik Langsung,16.0
+133,17,5,Modul 5: Studi Kasus 2,54.0
+134,17,6,Modul 6: Teknik Lanjutan,14.0
+135,17,7,Modul 7: Tools & Best Practices,55.0
+136,18,1,Modul 1: Pengenalan & Overview,31.0
+137,18,2,Modul 2: Konsep Dasar,53.0
+138,18,3,Modul 3: Studi Kasus 1,57.0
+139,18,4,Modul 4: Praktik Langsung,21.0
+140,18,5,Modul 5: Studi Kasus 2,31.0
+141,18,6,Modul 6: Teknik Lanjutan,39.0
+142,18,7,Modul 7: Tools & Best Practices,35.0
+143,18,8,Modul 8: Project Mini,21.0
+144,18,9,Modul 9: Evaluasi & Quiz,37.0
+145,18,10,Modul 10: Studi Kasus Lanjutan,57.0
+146,18,11,Modul 11: Optimasi & Tips,22.0
+147,18,12,Modul 12: Final Project,37.0
+148,19,1,Modul 1: Pengenalan & Overview,55.0
+149,19,2,Modul 2: Konsep Dasar,27.0
+150,19,3,Modul 3: Studi Kasus 1,60.0
+151,19,4,Modul 4: Praktik Langsung,16.0
+152,19,5,Modul 5: Studi Kasus 2,44.0
+153,19,6,Modul 6: Teknik Lanjutan,30.0
+154,19,7,Modul 7: Tools & Best Practices,17.0
+155,20,1,Modul 1: Pengenalan & Overview,41.0
+156,20,2,Modul 2: Konsep Dasar,50.0
+157,20,3,Modul 3: Studi Kasus 1,34.0
+158,20,4,Modul 4: Praktik Langsung,47.0
+159,20,5,Modul 5: Studi Kasus 2,32.0
+160,20,6,Modul 6: Teknik Lanjutan,49.0
+161,20,7,Modul 7: Tools & Best Practices,53.0
+162,20,8,Modul 8: Project Mini,29.0
+163,21,1,Modul 1: Pengenalan & Overview,47.0
+164,21,2,Modul 2: Konsep Dasar,18.0
+165,21,3,Modul 3: Studi Kasus 1,25.0
+166,21,4,Modul 4: Praktik Langsung,21.0
+167,21,5,Modul 5: Studi Kasus 2,19.0
+168,21,6,Modul 6: Teknik Lanjutan,36.0
+169,21,7,Modul 7: Tools & Best Practices,46.0
+170,22,1,Modul 1: Pengenalan & Overview,21.0
+171,22,2,Modul 2: Konsep Dasar,44.0
+172,22,3,Modul 3: Studi Kasus 1,51.0
+173,22,4,Modul 4: Praktik Langsung,21.0
+174,23,1,Modul 1: Pengenalan & Overview,41.0
+175,23,2,Modul 2: Konsep Dasar,21.0
+176,23,3,Modul 3: Studi Kasus 1,38.0
+177,23,4,Modul 4: Praktik Langsung,32.0
+178,23,5,Modul 5: Studi Kasus 2,41.0
+179,24,1,Modul 1: Pengenalan & Overview,34.0
+180,24,2,Modul 2: Konsep Dasar,42.0
+181,24,3,Modul 3: Studi Kasus 1,36.0
+182,24,4,Modul 4: Praktik Langsung,36.0
+183,24,5,Modul 5: Studi Kasus 2,38.0
+184,25,1,Modul 1: Pengenalan & Overview,15.0
+185,25,2,Modul 2: Konsep Dasar,60.0
+186,25,3,Modul 3: Studi Kasus 1,28.0
+187,25,4,Modul 4: Praktik Langsung,24.0
+188,25,5,Modul 5: Studi Kasus 2,20.0
+189,25,6,Modul 6: Teknik Lanjutan,46.0
+190,25,7,Modul 7: Tools & Best Practices,59.0
+191,25,8,Modul 8: Project Mini,42.0
+192,25,9,Modul 9: Evaluasi & Quiz,17.0
+193,26,1,Modul 1: Pengenalan & Overview,44.0
+194,26,2,Modul 2: Konsep Dasar,33.0
+195,26,3,Modul 3: Studi Kasus 1,58.0
+196,26,4,Modul 4: Praktik Langsung,56.0
+197,26,5,Modul 5: Studi Kasus 2,23.0
+198,27,1,Modul 1: Pengenalan & Overview,16.0
+199,27,2,Modul 2: Konsep Dasar,51.0
+200,27,3,Modul 3: Studi Kasus 1,29.0
+201,27,4,Modul 4: Praktik Langsung,12.0
+202,27,5,Modul 5: Studi Kasus 2,32.0
+203,27,6,Modul 6: Teknik Lanjutan,15.0
+204,27,7,Modul 7: Tools & Best Practices,17.0
+205,27,8,Modul 8: Project Mini,25.0
+206,27,9,Modul 9: Evaluasi & Quiz,57.0
+207,28,1,Modul 1: Pengenalan & Overview,32.0
+208,28,2,Modul 2: Konsep Dasar,49.0
+209,28,3,Modul 3: Studi Kasus 1,20.0
+210,28,4,Modul 4: Praktik Langsung,60.0
+211,28,5,Modul 5: Studi Kasus 2,23.0
+212,28,6,Modul 6: Teknik Lanjutan,46.0
+213,28,7,Modul 7: Tools & Best Practices,27.0
+214,28,8,Modul 8: Project Mini,20.0
+215,28,9,Modul 9: Evaluasi & Quiz,55.0
+216,28,10,Modul 10: Studi Kasus Lanjutan,46.0
+217,28,11,Modul 11: Optimasi & Tips,42.0
+218,28,12,Modul 12: Final Project,53.0
+219,29,1,Modul 1: Pengenalan & Overview,18.0
+220,29,2,Modul 2: Konsep Dasar,60.0
+221,29,3,Modul 3: Studi Kasus 1,13.0
+222,29,4,Modul 4: Praktik Langsung,51.0
+223,29,5,Modul 5: Studi Kasus 2,18.0
+224,29,6,Modul 6: Teknik Lanjutan,55.0
+225,30,1,Modul 1: Pengenalan & Overview,25.0
+226,30,2,Modul 2: Konsep Dasar,53.0
+227,30,3,Modul 3: Studi Kasus 1,19.0
+228,30,4,Modul 4: Praktik Langsung,27.0
+229,30,5,Modul 5: Studi Kasus 2,34.0
+230,30,6,Modul 6: Teknik Lanjutan,50.0
+231,30,7,Modul 7: Tools & Best Practices,59.0
+232,30,8,Modul 8: Project Mini,42.0
+233,30,9,Modul 9: Evaluasi & Quiz,54.0
+234,31,1,Modul 1: Pengenalan & Overview,33.0
+235,31,2,Modul 2: Konsep Dasar,41.0
+236,31,3,Modul 3: Studi Kasus 1,10.0
+237,31,4,Modul 4: Praktik Langsung,56.0
+238,31,5,Modul 5: Studi Kasus 2,39.0
+239,31,6,Modul 6: Teknik Lanjutan,54.0
+240,31,7,Modul 7: Tools & Best Practices,14.0
+241,31,8,Modul 8: Project Mini,35.0
+242,31,9,Modul 9: Evaluasi & Quiz,37.0
+243,31,10,Modul 10: Studi Kasus Lanjutan,41.0
+244,32,1,Modul 1: Pengenalan & Overview,28.0
+245,32,2,Modul 2: Konsep Dasar,46.0
+246,32,3,Modul 3: Studi Kasus 1,41.0
+247,32,4,Modul 4: Praktik Langsung,53.0
+248,32,5,Modul 5: Studi Kasus 2,12.0
+249,32,6,Modul 6: Teknik Lanjutan,60.0
+250,32,7,Modul 7: Tools & Best Practices,11.0
+251,32,8,Modul 8: Project Mini,20.0
+252,32,9,Modul 9: Evaluasi & Quiz,10.0
+253,32,10,Modul 10: Studi Kasus Lanjutan,37.0
+254,32,11,Modul 11: Optimasi & Tips,54.0
+255,33,1,Modul 1: Pengenalan & Overview,51.0
+256,33,2,Modul 2: Konsep Dasar,27.0
+257,33,3,Modul 3: Studi Kasus 1,33.0
+258,33,4,Modul 4: Praktik Langsung,33.0
+259,33,5,Modul 5: Studi Kasus 2,51.0
+260,33,6,Modul 6: Teknik Lanjutan,35.0
+261,34,1,Modul 1: Pengenalan & Overview,56.0
+262,34,2,Modul 2: Konsep Dasar,24.0
+263,34,3,Modul 3: Studi Kasus 1,15.0
+264,34,4,Modul 4: Praktik Langsung,10.0
+265,35,1,Modul 1: Pengenalan & Overview,14.0
+266,35,2,Modul 2: Konsep Dasar,24.0
+267,35,3,Modul 3: Studi Kasus 1,29.5
+268,35,4,Modul 4: Praktik Langsung,54.0
+269,35,5,Modul 5: Studi Kasus 2,17.0
+270,35,6,Modul 6: Teknik Lanjutan,37.0
+271,35,7,Modul 7: Tools & Best Practices,40.0
+272,35,8,Modul 8: Project Mini,34.0
+273,35,9,Modul 9: Evaluasi & Quiz,16.0
+274,36,1,Modul 1: Pengenalan & Overview,33.0
+275,36,2,Modul 2: Konsep Dasar,18.0
+276,36,3,Modul 3: Studi Kasus 1,58.0
+277,36,4,Modul 4: Praktik Langsung,51.0
+278,36,5,Modul 5: Studi Kasus 2,19.0
+279,36,6,Modul 6: Teknik Lanjutan,35.8
+280,37,1,Modul 1: Pengenalan & Overview,51.0
+281,37,2,Modul 2: Konsep Dasar,32.0
+282,37,3,Modul 3: Studi Kasus 1,50.0
+283,37,4,Modul 4: Praktik Langsung,36.0
+284,37,5,Modul 5: Studi Kasus 2,38.0
+285,37,6,Modul 6: Teknik Lanjutan,15.0
+286,37,7,Modul 7: Tools & Best Practices,18.0
+287,37,8,Modul 8: Project Mini,47.0
+288,38,1,Modul 1: Pengenalan & Overview,32.0
+289,38,2,Modul 2: Konsep Dasar,30.0
+290,38,3,Modul 3: Studi Kasus 1,25.0
+291,38,4,Modul 4: Praktik Langsung,15.0
+292,38,5,Modul 5: Studi Kasus 2,48.0
+293,38,6,Modul 6: Teknik Lanjutan,48.0
+294,38,7,Modul 7: Tools & Best Practices,54.0
+295,38,8,Modul 8: Project Mini,52.0
+296,38,9,Modul 9: Evaluasi & Quiz,23.0
+297,38,10,Modul 10: Studi Kasus Lanjutan,42.0
+298,38,11,Modul 11: Optimasi & Tips,35.0
+299,39,1,Modul 1: Pengenalan & Overview,13.0
+300,39,2,Modul 2: Konsep Dasar,60.0
+301,39,3,Modul 3: Studi Kasus 1,41.0
+302,39,4,Modul 4: Praktik Langsung,25.0
+303,39,5,Modul 5: Studi Kasus 2,48.0
+304,39,6,Modul 6: Teknik Lanjutan,10.0
+305,39,7,Modul 7: Tools & Best Practices,30.0
+306,39,8,Modul 8: Project Mini,46.0
+307,39,9,Modul 9: Evaluasi & Quiz,44.0
+308,40,1,Modul 1: Pengenalan & Overview,58.0
+309,40,2,Modul 2: Konsep Dasar,59.0
+310,40,3,Modul 3: Studi Kasus 1,47.0
+311,40,4,Modul 4: Praktik Langsung,26.0
+312,40,5,Modul 5: Studi Kasus 2,13.0
+313,41,1,Modul 1: Pengenalan & Overview,35.0
+314,41,2,Modul 2: Konsep Dasar,50.0
+315,41,3,Modul 3: Studi Kasus 1,59.0
+316,41,4,Modul 4: Praktik Langsung,54.0
+317,41,5,Modul 5: Studi Kasus 2,50.0
+318,41,6,Modul 6: Teknik Lanjutan,49.0
+319,41,7,Modul 7: Tools & Best Practices,15.0
+320,41,8,Modul 8: Project Mini,42.0
+321,41,9,Modul 9: Evaluasi & Quiz,19.0
+322,41,10,Modul 10: Studi Kasus Lanjutan,35.0
+323,42,1,Modul 1: Pengenalan & Overview,58.0
+324,42,2,Modul 2: Konsep Dasar,53.0
+325,42,3,Modul 3: Studi Kasus 1,29.0
+326,42,4,Modul 4: Praktik Langsung,56.0
+327,42,5,Modul 5: Studi Kasus 2,25.0
+328,42,6,Modul 6: Teknik Lanjutan,15.0
+329,42,7,Modul 7: Tools & Best Practices,17.0
+330,42,8,Modul 8: Project Mini,48.0
+331,43,1,Modul 1: Pengenalan & Overview,52.0
+332,43,2,Modul 2: Konsep Dasar,57.0
+333,43,3,Modul 3: Studi Kasus 1,10.0
+334,43,4,Modul 4: Praktik Langsung,40.0
+335,43,5,Modul 5: Studi Kasus 2,41.0
+336,44,1,Modul 1: Pengenalan & Overview,43.0
+337,44,2,Modul 2: Konsep Dasar,56.0
+338,44,3,Modul 3: Studi Kasus 1,33.0
+339,44,4,Modul 4: Praktik Langsung,59.0
+340,44,5,Modul 5: Studi Kasus 2,56.0
+341,44,6,Modul 6: Teknik Lanjutan,59.0
+342,44,7,Modul 7: Tools & Best Practices,31.0
+343,44,8,Modul 8: Project Mini,27.0
+344,45,1,Modul 1: Pengenalan & Overview,26.0
+345,45,2,Modul 2: Konsep Dasar,46.0
+346,45,3,Modul 3: Studi Kasus 1,41.0
+347,45,4,Modul 4: Praktik Langsung,33.0
+348,45,5,Modul 5: Studi Kasus 2,46.0
+349,45,6,Modul 6: Teknik Lanjutan,20.0
+350,45,7,Modul 7: Tools & Best Practices,16.0
+351,46,1,Modul 1: Pengenalan & Overview,53.0
+352,46,2,Modul 2: Konsep Dasar,24.0
+353,46,3,Modul 3: Studi Kasus 1,10.0
+354,46,4,Modul 4: Praktik Langsung,10.0
+355,46,5,Modul 5: Studi Kasus 2,40.0
+356,46,6,Modul 6: Teknik Lanjutan,19.0
+357,46,7,Modul 7: Tools & Best Practices,12.0
+358,46,8,Modul 8: Project Mini,55.0
+359,46,9,Modul 9: Evaluasi & Quiz,36.0
+360,46,10,Modul 10: Studi Kasus Lanjutan,25.0
+361,46,11,Modul 11: Optimasi & Tips,56.0
+362,46,12,Modul 12: Final Project,14.0
+363,47,1,Modul 1: Pengenalan & Overview,17.0
+364,47,2,Modul 2: Konsep Dasar,13.0
+365,47,3,Modul 3: Studi Kasus 1,43.0
+366,47,4,Modul 4: Praktik Langsung,35.0
+367,47,5,Modul 5: Studi Kasus 2,39.0
+368,47,6,Modul 6: Teknik Lanjutan,59.0
+369,47,7,Modul 7: Tools & Best Practices,30.0
+370,47,8,Modul 8: Project Mini,36.7
+371,47,9,Modul 9: Evaluasi & Quiz,22.0
+372,47,10,Modul 10: Studi Kasus Lanjutan,60.0
+373,47,11,Modul 11: Optimasi & Tips,49.0
+374,48,1,Modul 1: Pengenalan & Overview,33.0
+375,48,2,Modul 2: Konsep Dasar,41.0
+376,48,3,Modul 3: Studi Kasus 1,59.0
+377,48,4,Modul 4: Praktik Langsung,44.0
+378,48,5,Modul 5: Studi Kasus 2,25.0
+379,48,6,Modul 6: Teknik Lanjutan,36.0
+380,48,7,Modul 7: Tools & Best Practices,44.0
+381,48,8,Modul 8: Project Mini,54.0
+382,48,9,Modul 9: Evaluasi & Quiz,41.90909090909091
+383,48,10,Modul 10: Studi Kasus Lanjutan,52.0
+384,48,11,Modul 11: Optimasi & Tips,57.0
+385,48,12,Modul 12: Final Project,16.0
+386,49,1,Modul 1: Pengenalan & Overview,25.0
+387,49,2,Modul 2: Konsep Dasar,13.0
+388,49,3,Modul 3: Studi Kasus 1,19.0
+389,49,4,Modul 4: Praktik Langsung,15.0
+390,49,5,Modul 5: Studi Kasus 2,24.0
+391,49,6,Modul 6: Teknik Lanjutan,43.0
+392,49,7,Modul 7: Tools & Best Practices,33.0
+393,50,1,Modul 1: Pengenalan & Overview,57.0
+394,50,2,Modul 2: Konsep Dasar,16.0
+395,50,3,Modul 3: Studi Kasus 1,50.0
+396,50,4,Modul 4: Praktik Langsung,14.0
+397,50,5,Modul 5: Studi Kasus 2,13.0
+398,50,6,Modul 6: Teknik Lanjutan,18.0
+399,50,7,Modul 7: Tools & Best Practices,26.0
+400,51,1,Modul 1: Pengenalan & Overview,35.0
+401,51,2,Modul 2: Konsep Dasar,57.0
+402,51,3,Modul 3: Studi Kasus 1,38.0
+403,51,4,Modul 4: Praktik Langsung,14.0
+404,51,5,Modul 5: Studi Kasus 2,18.0
+405,52,1,Modul 1: Pengenalan & Overview,47.0
+406,52,2,Modul 2: Konsep Dasar,16.0
+407,52,3,Modul 3: Studi Kasus 1,39.0
+408,52,4,Modul 4: Praktik Langsung,17.0
+409,52,5,Modul 5: Studi Kasus 2,59.0
+410,52,6,Modul 6: Teknik Lanjutan,29.0
+411,52,7,Modul 7: Tools & Best Practices,17.0
+412,53,1,Modul 1: Pengenalan & Overview,53.0
+413,53,2,Modul 2: Konsep Dasar,55.0
+414,53,3,Modul 3: Studi Kasus 1,12.0
+415,53,4,Modul 4: Praktik Langsung,30.0
+416,53,5,Modul 5: Studi Kasus 2,55.0
+417,53,6,Modul 6: Teknik Lanjutan,32.0
+418,53,7,Modul 7: Tools & Best Practices,13.0
+419,53,8,Modul 8: Project Mini,26.0
+420,53,9,Modul 9: Evaluasi & Quiz,21.0
+421,53,10,Modul 10: Studi Kasus Lanjutan,35.0
+422,53,11,Modul 11: Optimasi & Tips,45.0
+423,53,12,Modul 12: Final Project,25.0
+424,54,1,Modul 1: Pengenalan & Overview,16.0
+425,54,2,Modul 2: Konsep Dasar,18.0
+426,54,3,Modul 3: Studi Kasus 1,13.0
+427,54,4,Modul 4: Praktik Langsung,24.0
+428,54,5,Modul 5: Studi Kasus 2,35.0
+429,54,6,Modul 6: Teknik Lanjutan,50.0
+430,54,7,Modul 7: Tools & Best Practices,15.0
+431,54,8,Modul 8: Project Mini,26.0
+432,55,1,Modul 1: Pengenalan & Overview,14.0
+433,55,2,Modul 2: Konsep Dasar,14.0
+434,55,3,Modul 3: Studi Kasus 1,51.0
+435,55,4,Modul 4: Praktik Langsung,18.0
+436,55,5,Modul 5: Studi Kasus 2,31.0
+437,55,6,Modul 6: Teknik Lanjutan,39.0
+438,55,7,Modul 7: Tools & Best Practices,46.0
+439,55,8,Modul 8: Project Mini,56.0
+440,55,9,Modul 9: Evaluasi & Quiz,11.0
+441,55,10,Modul 10: Studi Kasus Lanjutan,37.0
+442,55,11,Modul 11: Optimasi & Tips,23.0
+443,56,1,Modul 1: Pengenalan & Overview,27.0
+444,56,2,Modul 2: Konsep Dasar,19.0
+445,56,3,Modul 3: Studi Kasus 1,49.0
+446,56,4,Modul 4: Praktik Langsung,51.0
+447,56,5,Modul 5: Studi Kasus 2,36.0
+448,56,6,Modul 6: Teknik Lanjutan,40.0
+449,57,1,Modul 1: Pengenalan & Overview,27.0
+450,57,2,Modul 2: Konsep Dasar,36.0
+451,57,3,Modul 3: Studi Kasus 1,43.0
+452,57,4,Modul 4: Praktik Langsung,44.0
+453,57,5,Modul 5: Studi Kasus 2,34.0
+454,57,6,Modul 6: Teknik Lanjutan,32.0
+455,57,7,Modul 7: Tools & Best Practices,60.0
+456,57,8,Modul 8: Project Mini,46.0
+457,57,9,Modul 9: Evaluasi & Quiz,34.0
+458,57,10,Modul 10: Studi Kasus Lanjutan,11.0
+459,57,11,Modul 11: Optimasi & Tips,24.0
+460,57,12,Modul 12: Final Project,59.0
+461,58,1,Modul 1: Pengenalan & Overview,40.0
+462,58,2,Modul 2: Konsep Dasar,59.0
+463,58,3,Modul 3: Studi Kasus 1,24.0
+464,58,4,Modul 4: Praktik Langsung,16.0
+465,58,5,Modul 5: Studi Kasus 2,25.0
+466,58,6,Modul 6: Teknik Lanjutan,60.0
+467,58,7,Modul 7: Tools & Best Practices,13.0
+468,58,8,Modul 8: Project Mini,24.0
+469,58,9,Modul 9: Evaluasi & Quiz,34.0
+470,58,10,Modul 10: Studi Kasus Lanjutan,21.0
+471,59,1,Modul 1: Pengenalan & Overview,47.0
+472,59,2,Modul 2: Konsep Dasar,57.0
+473,59,3,Modul 3: Studi Kasus 1,47.0
+474,59,4,Modul 4: Praktik Langsung,54.0
+475,59,5,Modul 5: Studi Kasus 2,46.0
+476,59,6,Modul 6: Teknik Lanjutan,46.0
+477,59,7,Modul 7: Tools & Best Practices,41.0
+478,59,8,Modul 8: Project Mini,21.0
+479,59,9,Modul 9: Evaluasi & Quiz,15.0
+480,59,10,Modul 10: Studi Kasus Lanjutan,48.0
+481,59,11,Modul 11: Optimasi & Tips,43.0
+482,60,1,Modul 1: Pengenalan & Overview,31.0
+483,60,2,Modul 2: Konsep Dasar,22.0
+484,60,3,Modul 3: Studi Kasus 1,31.0
+485,60,4,Modul 4: Praktik Langsung,30.0
+486,60,5,Modul 5: Studi Kasus 2,19.0
+487,60,6,Modul 6: Teknik Lanjutan,19.0
+488,60,7,Modul 7: Tools & Best Practices,43.0
+489,60,8,Modul 8: Project Mini,14.0
+490,60,9,Modul 9: Evaluasi & Quiz,52.0
+491,60,10,Modul 10: Studi Kasus Lanjutan,16.0
+492,60,11,Modul 11: Optimasi & Tips,30.0
+493,61,1,Modul 1: Pengenalan & Overview,20.0
+494,61,2,Modul 2: Konsep Dasar,37.0
+495,61,3,Modul 3: Studi Kasus 1,41.0
+496,61,4,Modul 4: Praktik Langsung,21.0
+497,61,5,Modul 5: Studi Kasus 2,45.0
+498,61,6,Modul 6: Teknik Lanjutan,49.0
+499,61,7,Modul 7: Tools & Best Practices,24.0
+500,61,8,Modul 8: Project Mini,21.0
+501,61,9,Modul 9: Evaluasi & Quiz,56.0
+502,61,10,Modul 10: Studi Kasus Lanjutan,18.0
+503,62,1,Modul 1: Pengenalan & Overview,10.0
+504,62,2,Modul 2: Konsep Dasar,46.0
+505,62,3,Modul 3: Studi Kasus 1,59.0
+506,62,4,Modul 4: Praktik Langsung,12.0
+507,62,5,Modul 5: Studi Kasus 2,30.0
+508,62,6,Modul 6: Teknik Lanjutan,49.0
+509,62,7,Modul 7: Tools & Best Practices,46.0
+510,62,8,Modul 8: Project Mini,41.0
+511,62,9,Modul 9: Evaluasi & Quiz,57.0
+512,62,10,Modul 10: Studi Kasus Lanjutan,32.0
+513,62,11,Modul 11: Optimasi & Tips,20.0
+514,63,1,Modul 1: Pengenalan & Overview,15.0
+515,63,2,Modul 2: Konsep Dasar,52.0
+516,63,3,Modul 3: Studi Kasus 1,31.0
+517,63,4,Modul 4: Praktik Langsung,26.0
+518,63,5,Modul 5: Studi Kasus 2,54.0
+519,63,6,Modul 6: Teknik Lanjutan,26.0
+520,63,7,Modul 7: Tools & Best Practices,34.4
+521,63,8,Modul 8: Project Mini,34.0
+522,63,9,Modul 9: Evaluasi & Quiz,36.0
+523,63,10,Modul 10: Studi Kasus Lanjutan,36.0
+524,63,11,Modul 11: Optimasi & Tips,34.0
+525,64,1,Modul 1: Pengenalan & Overview,34.0
+526,64,2,Modul 2: Konsep Dasar,40.0
+527,64,3,Modul 3: Studi Kasus 1,46.0
+528,64,4,Modul 4: Praktik Langsung,53.0
+529,64,5,Modul 5: Studi Kasus 2,38.0
+530,64,6,Modul 6: Teknik Lanjutan,12.0
+531,64,7,Modul 7: Tools & Best Practices,30.0
+532,65,1,Modul 1: Pengenalan & Overview,16.0
+533,65,2,Modul 2: Konsep Dasar,20.0
+534,65,3,Modul 3: Studi Kasus 1,20.0
+535,65,4,Modul 4: Praktik Langsung,45.0
+536,65,5,Modul 5: Studi Kasus 2,15.0
+537,65,6,Modul 6: Teknik Lanjutan,49.0
+538,65,7,Modul 7: Tools & Best Practices,55.0
+539,66,1,Modul 1: Pengenalan & Overview,51.0
+540,66,2,Modul 2: Konsep Dasar,37.0
+541,66,3,Modul 3: Studi Kasus 1,16.0
+542,66,4,Modul 4: Praktik Langsung,22.0
+543,66,5,Modul 5: Studi Kasus 2,45.0
+544,67,1,Modul 1: Pengenalan & Overview,56.0
+545,67,2,Modul 2: Konsep Dasar,52.0
+546,67,3,Modul 3: Studi Kasus 1,25.0
+547,67,4,Modul 4: Praktik Langsung,35.0
+548,67,5,Modul 5: Studi Kasus 2,41.0
+549,68,1,Modul 1: Pengenalan & Overview,35.666666666666664
+550,68,2,Modul 2: Konsep Dasar,15.0
+551,68,3,Modul 3: Studi Kasus 1,52.0
+552,68,4,Modul 4: Praktik Langsung,40.0
+553,69,1,Modul 1: Pengenalan & Overview,11.0
+554,69,2,Modul 2: Konsep Dasar,50.0
+555,69,3,Modul 3: Studi Kasus 1,15.0
+556,69,4,Modul 4: Praktik Langsung,17.0
+557,69,5,Modul 5: Studi Kasus 2,35.0
+558,69,6,Modul 6: Teknik Lanjutan,52.0
+559,69,7,Modul 7: Tools & Best Practices,51.0
+560,69,8,Modul 8: Project Mini,21.0
+561,69,9,Modul 9: Evaluasi & Quiz,34.0
+562,69,10,Modul 10: Studi Kasus Lanjutan,38.0
+563,70,1,Modul 1: Pengenalan & Overview,38.0
+564,70,2,Modul 2: Konsep Dasar,24.0
+565,70,3,Modul 3: Studi Kasus 1,46.0
+566,70,4,Modul 4: Praktik Langsung,58.0
+567,70,5,Modul 5: Studi Kasus 2,16.0
+568,70,6,Modul 6: Teknik Lanjutan,32.0
+569,71,1,Modul 1: Pengenalan & Overview,36.0
+570,71,2,Modul 2: Konsep Dasar,47.0
+571,71,3,Modul 3: Studi Kasus 1,13.0
+572,71,4,Modul 4: Praktik Langsung,43.0
+573,71,5,Modul 5: Studi Kasus 2,44.0
+574,71,6,Modul 6: Teknik Lanjutan,40.0
+575,71,7,Modul 7: Tools & Best Practices,25.0
+576,71,8,Modul 8: Project Mini,15.0
+577,72,1,Modul 1: Pengenalan & Overview,55.0
+578,72,2,Modul 2: Konsep Dasar,46.0
+579,72,3,Modul 3: Studi Kasus 1,46.0
+580,72,4,Modul 4: Praktik Langsung,49.0
+581,72,5,Modul 5: Studi Kasus 2,58.0
+582,72,6,Modul 6: Teknik Lanjutan,20.0
+583,72,7,Modul 7: Tools & Best Practices,22.0
+584,72,8,Modul 8: Project Mini,37.0
+585,72,9,Modul 9: Evaluasi & Quiz,53.0
+586,72,10,Modul 10: Studi Kasus Lanjutan,50.0
+587,73,1,Modul 1: Pengenalan & Overview,48.0
+588,73,2,Modul 2: Konsep Dasar,56.0
+589,73,3,Modul 3: Studi Kasus 1,14.0
+590,73,4,Modul 4: Praktik Langsung,45.0
+591,73,5,Modul 5: Studi Kasus 2,30.0
+592,73,6,Modul 6: Teknik Lanjutan,43.0
+593,73,7,Modul 7: Tools & Best Practices,10.0
+594,73,8,Modul 8: Project Mini,49.0
+595,74,1,Modul 1: Pengenalan & Overview,60.0
+596,74,2,Modul 2: Konsep Dasar,36.0
+597,74,3,Modul 3: Studi Kasus 1,46.0
+598,74,4,Modul 4: Praktik Langsung,58.0
+599,74,5,Modul 5: Studi Kasus 2,16.0
+600,74,6,Modul 6: Teknik Lanjutan,46.0
+601,74,7,Modul 7: Tools & Best Practices,60.0
+602,75,1,Modul 1: Pengenalan & Overview,44.0
+603,75,2,Modul 2: Konsep Dasar,36.0
+604,75,3,Modul 3: Studi Kasus 1,51.0
+605,75,4,Modul 4: Praktik Langsung,48.0
+606,75,5,Modul 5: Studi Kasus 2,21.0
+607,75,6,Modul 6: Teknik Lanjutan,19.0
+608,75,7,Modul 7: Tools & Best Practices,53.0
+609,75,8,Modul 8: Project Mini,12.0
+610,75,9,Modul 9: Evaluasi & Quiz,31.0
+611,75,10,Modul 10: Studi Kasus Lanjutan,13.0
+612,75,11,Modul 11: Optimasi & Tips,27.0
+613,76,1,Modul 1: Pengenalan & Overview,11.0
+614,76,2,Modul 2: Konsep Dasar,60.0
+615,76,3,Modul 3: Studi Kasus 1,27.0
+616,76,4,Modul 4: Praktik Langsung,54.0
+617,76,5,Modul 5: Studi Kasus 2,24.0
+618,76,6,Modul 6: Teknik Lanjutan,57.0
+619,76,7,Modul 7: Tools & Best Practices,30.0
+620,76,8,Modul 8: Project Mini,36.0
+621,76,9,Modul 9: Evaluasi & Quiz,15.0
+622,77,1,Modul 1: Pengenalan & Overview,23.0
+623,77,2,Modul 2: Konsep Dasar,36.0
+624,77,3,Modul 3: Studi Kasus 1,58.0
+625,77,4,Modul 4: Praktik Langsung,33.0
+626,77,5,Modul 5: Studi Kasus 2,42.0
+627,77,6,Modul 6: Teknik Lanjutan,14.0
+628,77,7,Modul 7: Tools & Best Practices,42.0
+629,77,8,Modul 8: Project Mini,59.0
+630,78,1,Modul 1: Pengenalan & Overview,46.0
+631,78,2,Modul 2: Konsep Dasar,22.0
+632,78,3,Modul 3: Studi Kasus 1,22.0
+633,78,4,Modul 4: Praktik Langsung,25.0
+634,78,5,Modul 5: Studi Kasus 2,13.0
+635,78,6,Modul 6: Teknik Lanjutan,55.0
+636,78,7,Modul 7: Tools & Best Practices,33.0
+637,78,8,Modul 8: Project Mini,42.0
+638,78,9,Modul 9: Evaluasi & Quiz,17.0
+639,78,10,Modul 10: Studi Kasus Lanjutan,25.0
+640,78,11,Modul 11: Optimasi & Tips,48.0
+641,78,12,Modul 12: Final Project,40.0
+642,79,1,Modul 1: Pengenalan & Overview,32.0
+643,79,2,Modul 2: Konsep Dasar,26.0
+644,79,3,Modul 3: Studi Kasus 1,54.0
+645,79,4,Modul 4: Praktik Langsung,11.0
+646,79,5,Modul 5: Studi Kasus 2,20.0
+647,79,6,Modul 6: Teknik Lanjutan,59.0
+648,79,7,Modul 7: Tools & Best Practices,24.0
+649,79,8,Modul 8: Project Mini,53.0
+650,79,9,Modul 9: Evaluasi & Quiz,51.0
+651,79,10,Modul 10: Studi Kasus Lanjutan,11.0
+652,79,11,Modul 11: Optimasi & Tips,59.0
+653,79,12,Modul 12: Final Project,40.0
+654,80,1,Modul 1: Pengenalan & Overview,51.0
+655,80,2,Modul 2: Konsep Dasar,10.0
+656,80,3,Modul 3: Studi Kasus 1,48.0
+657,80,4,Modul 4: Praktik Langsung,29.0
+658,80,5,Modul 5: Studi Kasus 2,55.0
+659,80,6,Modul 6: Teknik Lanjutan,37.0
+660,80,7,Modul 7: Tools & Best Practices,32.0
+661,80,8,Modul 8: Project Mini,23.0
+662,81,1,Modul 1: Pengenalan & Overview,53.0
+663,81,2,Modul 2: Konsep Dasar,49.0
+664,81,3,Modul 3: Studi Kasus 1,41.3
+665,81,4,Modul 4: Praktik Langsung,52.0
+666,81,5,Modul 5: Studi Kasus 2,33.0
+667,81,6,Modul 6: Teknik Lanjutan,48.0
+668,81,7,Modul 7: Tools & Best Practices,29.0
+669,81,8,Modul 8: Project Mini,40.0
+670,81,9,Modul 9: Evaluasi & Quiz,27.0
+671,81,10,Modul 10: Studi Kasus Lanjutan,27.0
+672,81,11,Modul 11: Optimasi & Tips,55.0
+673,82,1,Modul 1: Pengenalan & Overview,51.0
+674,82,2,Modul 2: Konsep Dasar,19.0
+675,82,3,Modul 3: Studi Kasus 1,25.0
+676,82,4,Modul 4: Praktik Langsung,48.0
+677,82,5,Modul 5: Studi Kasus 2,30.0
+678,82,6,Modul 6: Teknik Lanjutan,56.0
+679,83,1,Modul 1: Pengenalan & Overview,41.0
+680,83,2,Modul 2: Konsep Dasar,26.0
+681,83,3,Modul 3: Studi Kasus 1,35.0
+682,83,4,Modul 4: Praktik Langsung,12.0
+683,83,5,Modul 5: Studi Kasus 2,46.0
+684,84,1,Modul 1: Pengenalan & Overview,31.0
+685,84,2,Modul 2: Konsep Dasar,24.0
+686,84,3,Modul 3: Studi Kasus 1,50.0
+687,84,4,Modul 4: Praktik Langsung,52.0
+688,84,5,Modul 5: Studi Kasus 2,29.0
+689,84,6,Modul 6: Teknik Lanjutan,52.0
+690,84,7,Modul 7: Tools & Best Practices,21.0
+691,85,1,Modul 1: Pengenalan & Overview,40.0
+692,85,2,Modul 2: Konsep Dasar,26.0
+693,85,3,Modul 3: Studi Kasus 1,45.0
+694,85,4,Modul 4: Praktik Langsung,21.0
+695,85,5,Modul 5: Studi Kasus 2,31.0
+696,85,6,Modul 6: Teknik Lanjutan,24.0
+697,85,7,Modul 7: Tools & Best Practices,57.0
+698,85,8,Modul 8: Project Mini,36.0
+699,85,9,Modul 9: Evaluasi & Quiz,31.0
+700,85,10,Modul 10: Studi Kasus Lanjutan,47.0
+701,85,11,Modul 11: Optimasi & Tips,17.0
+702,86,1,Modul 1: Pengenalan & Overview,50.0
+703,86,2,Modul 2: Konsep Dasar,49.0
+704,86,3,Modul 3: Studi Kasus 1,22.0
+705,86,4,Modul 4: Praktik Langsung,53.0
+706,86,5,Modul 5: Studi Kasus 2,29.0
+707,86,6,Modul 6: Teknik Lanjutan,19.0
+708,86,7,Modul 7: Tools & Best Practices,22.0
+709,87,1,Modul 1: Pengenalan & Overview,46.0
+710,87,2,Modul 2: Konsep Dasar,39.0
+711,87,3,Modul 3: Studi Kasus 1,55.0
+712,87,4,Modul 4: Praktik Langsung,15.0
+713,87,5,Modul 5: Studi Kasus 2,50.0
+714,87,6,Modul 6: Teknik Lanjutan,30.0
+715,87,7,Modul 7: Tools & Best Practices,10.0
+716,87,8,Modul 8: Project Mini,23.0
+717,87,9,Modul 9: Evaluasi & Quiz,20.0
+718,87,10,Modul 10: Studi Kasus Lanjutan,20.0
+719,88,1,Modul 1: Pengenalan & Overview,58.0
+720,88,2,Modul 2: Konsep Dasar,18.0
+721,88,3,Modul 3: Studi Kasus 1,50.0
+722,88,4,Modul 4: Praktik Langsung,37.0
+723,88,5,Modul 5: Studi Kasus 2,38.57142857142857
+724,88,6,Modul 6: Teknik Lanjutan,44.0
+725,88,7,Modul 7: Tools & Best Practices,33.0
+726,88,8,Modul 8: Project Mini,30.0
+727,89,1,Modul 1: Pengenalan & Overview,43.0
+728,89,2,Modul 2: Konsep Dasar,36.44444444444444
+729,89,3,Modul 3: Studi Kasus 1,56.0
+730,89,4,Modul 4: Praktik Langsung,54.0
+731,89,5,Modul 5: Studi Kasus 2,29.0
+732,89,6,Modul 6: Teknik Lanjutan,34.0
+733,89,7,Modul 7: Tools & Best Practices,29.0
+734,89,8,Modul 8: Project Mini,12.0
+735,89,9,Modul 9: Evaluasi & Quiz,28.0
+736,89,10,Modul 10: Studi Kasus Lanjutan,43.0
+737,90,1,Modul 1: Pengenalan & Overview,31.0
+738,90,2,Modul 2: Konsep Dasar,53.0
+739,90,3,Modul 3: Studi Kasus 1,31.0
+740,90,4,Modul 4: Praktik Langsung,41.0
+741,90,5,Modul 5: Studi Kasus 2,22.0
+742,90,6,Modul 6: Teknik Lanjutan,35.6
+743,91,1,Modul 1: Pengenalan & Overview,24.0
+744,91,2,Modul 2: Konsep Dasar,18.0
+745,91,3,Modul 3: Studi Kasus 1,11.0
+746,91,4,Modul 4: Praktik Langsung,20.0
+747,91,5,Modul 5: Studi Kasus 2,55.0
+748,91,6,Modul 6: Teknik Lanjutan,12.0
+749,91,7,Modul 7: Tools & Best Practices,50.0
+750,91,8,Modul 8: Project Mini,44.0
+751,91,9,Modul 9: Evaluasi & Quiz,48.0
+752,91,10,Modul 10: Studi Kasus Lanjutan,52.0
+753,91,11,Modul 11: Optimasi & Tips,11.0
+754,92,1,Modul 1: Pengenalan & Overview,17.0
+755,92,2,Modul 2: Konsep Dasar,34.0
+756,92,3,Modul 3: Studi Kasus 1,26.0
+757,92,4,Modul 4: Praktik Langsung,19.0
+758,93,1,Modul 1: Pengenalan & Overview,53.0
+759,93,2,Modul 2: Konsep Dasar,29.0
+760,93,3,Modul 3: Studi Kasus 1,16.0
+761,93,4,Modul 4: Praktik Langsung,27.0
+762,93,5,Modul 5: Studi Kasus 2,54.0
+763,93,6,Modul 6: Teknik Lanjutan,16.0
+764,93,7,Modul 7: Tools & Best Practices,49.0
+765,94,1,Modul 1: Pengenalan & Overview,17.0
+766,94,2,Modul 2: Konsep Dasar,41.0
+767,94,3,Modul 3: Studi Kasus 1,22.0
+768,94,4,Modul 4: Praktik Langsung,43.0
+769,94,5,Modul 5: Studi Kasus 2,32.0
+770,94,6,Modul 6: Teknik Lanjutan,28.0
+771,95,1,Modul 1: Pengenalan & Overview,45.0
+772,95,2,Modul 2: Konsep Dasar,23.0
+773,95,3,Modul 3: Studi Kasus 1,40.0
+774,95,4,Modul 4: Praktik Langsung,30.75
+775,95,5,Modul 5: Studi Kasus 2,15.0
+776,96,1,Modul 1: Pengenalan & Overview,46.0
+777,96,2,Modul 2: Konsep Dasar,19.0
+778,96,3,Modul 3: Studi Kasus 1,59.0
+779,96,4,Modul 4: Praktik Langsung,56.0
+780,96,5,Modul 5: Studi Kasus 2,26.0
+781,96,6,Modul 6: Teknik Lanjutan,39.0
+782,96,7,Modul 7: Tools & Best Practices,28.0
+783,96,8,Modul 8: Project Mini,13.0
+784,96,9,Modul 9: Evaluasi & Quiz,21.0
+785,96,10,Modul 10: Studi Kasus Lanjutan,28.0
+786,97,1,Modul 1: Pengenalan & Overview,53.0
+787,97,2,Modul 2: Konsep Dasar,57.0
+788,97,3,Modul 3: Studi Kasus 1,58.0
+789,97,4,Modul 4: Praktik Langsung,10.0
+790,97,5,Modul 5: Studi Kasus 2,52.0
+791,97,6,Modul 6: Teknik Lanjutan,31.0
+792,97,7,Modul 7: Tools & Best Practices,38.0
+793,97,8,Modul 8: Project Mini,27.0
+794,97,9,Modul 9: Evaluasi & Quiz,15.0
+795,98,1,Modul 1: Pengenalan & Overview,31.0
+796,98,2,Modul 2: Konsep Dasar,35.0
+797,98,3,Modul 3: Studi Kasus 1,39.0
+798,98,4,Modul 4: Praktik Langsung,34.0
+799,99,1,Modul 1: Pengenalan & Overview,40.0
+800,99,2,Modul 2: Konsep Dasar,51.0
+801,99,3,Modul 3: Studi Kasus 1,20.0
+802,99,4,Modul 4: Praktik Langsung,54.0
+803,99,5,Modul 5: Studi Kasus 2,20.0
+804,99,6,Modul 6: Teknik Lanjutan,47.0
+805,99,7,Modul 7: Tools & Best Practices,46.0
+806,99,8,Modul 8: Project Mini,21.0
+807,100,1,Modul 1: Pengenalan & Overview,59.0
+808,100,2,Modul 2: Konsep Dasar,11.0
+809,100,3,Modul 3: Studi Kasus 1,56.0
+810,100,4,Modul 4: Praktik Langsung,18.0
+811,100,5,Modul 5: Studi Kasus 2,41.0
+812,100,6,Modul 6: Teknik Lanjutan,36.0
+813,100,7,Modul 7: Tools & Best Practices,14.0
+814,101,1,Modul 1: Pengenalan & Overview,52.0
+815,101,2,Modul 2: Konsep Dasar,53.0
+816,101,3,Modul 3: Studi Kasus 1,57.0
+817,101,4,Modul 4: Praktik Langsung,46.0
+818,101,5,Modul 5: Studi Kasus 2,52.0
+819,102,1,Modul 1: Pengenalan & Overview,43.0
+820,102,2,Modul 2: Konsep Dasar,54.0
+821,102,3,Modul 3: Studi Kasus 1,37.0
+822,102,4,Modul 4: Praktik Langsung,25.0
+823,102,5,Modul 5: Studi Kasus 2,52.0
+824,102,6,Modul 6: Teknik Lanjutan,34.0
+825,102,7,Modul 7: Tools & Best Practices,45.0
+826,102,8,Modul 8: Project Mini,49.0
+827,102,9,Modul 9: Evaluasi & Quiz,51.0
+828,102,10,Modul 10: Studi Kasus Lanjutan,42.0
+829,102,11,Modul 11: Optimasi & Tips,41.0
+830,102,12,Modul 12: Final Project,14.0
+831,103,1,Modul 1: Pengenalan & Overview,30.0
+832,103,2,Modul 2: Konsep Dasar,27.0
+833,103,3,Modul 3: Studi Kasus 1,24.0
+834,103,4,Modul 4: Praktik Langsung,34.0
+835,103,5,Modul 5: Studi Kasus 2,25.0
+836,103,6,Modul 6: Teknik Lanjutan,38.0
+837,103,7,Modul 7: Tools & Best Practices,38.0
+838,103,8,Modul 8: Project Mini,41.0
+839,103,9,Modul 9: Evaluasi & Quiz,17.0
+840,103,10,Modul 10: Studi Kasus Lanjutan,57.0
+841,104,1,Modul 1: Pengenalan & Overview,16.0
+842,104,2,Modul 2: Konsep Dasar,12.0
+843,104,3,Modul 3: Studi Kasus 1,10.0
+844,104,4,Modul 4: Praktik Langsung,60.0
+845,104,5,Modul 5: Studi Kasus 2,49.0
+846,104,6,Modul 6: Teknik Lanjutan,42.0
+847,104,7,Modul 7: Tools & Best Practices,51.0
+848,104,8,Modul 8: Project Mini,31.0
+849,104,9,Modul 9: Evaluasi & Quiz,13.0
+850,105,1,Modul 1: Pengenalan & Overview,39.0
+851,105,2,Modul 2: Konsep Dasar,59.0
+852,105,3,Modul 3: Studi Kasus 1,40.0
+853,105,4,Modul 4: Praktik Langsung,33.0
+854,105,5,Modul 5: Studi Kasus 2,17.0
+855,105,6,Modul 6: Teknik Lanjutan,52.0
+856,105,7,Modul 7: Tools & Best Practices,31.0
+857,105,8,Modul 8: Project Mini,50.0
+858,105,9,Modul 9: Evaluasi & Quiz,28.0
+859,105,10,Modul 10: Studi Kasus Lanjutan,33.0
+860,105,11,Modul 11: Optimasi & Tips,12.0
+861,106,1,Modul 1: Pengenalan & Overview,41.0
+862,106,2,Modul 2: Konsep Dasar,55.0
+863,106,3,Modul 3: Studi Kasus 1,36.0
+864,106,4,Modul 4: Praktik Langsung,49.0
+865,106,5,Modul 5: Studi Kasus 2,17.0
+866,106,6,Modul 6: Teknik Lanjutan,35.0
+867,106,7,Modul 7: Tools & Best Practices,60.0
+868,106,8,Modul 8: Project Mini,31.0
+869,106,9,Modul 9: Evaluasi & Quiz,36.0
+870,106,10,Modul 10: Studi Kasus Lanjutan,50.0
+871,106,11,Modul 11: Optimasi & Tips,47.0
+872,107,1,Modul 1: Pengenalan & Overview,38.0
+873,107,2,Modul 2: Konsep Dasar,47.0
+874,107,3,Modul 3: Studi Kasus 1,18.0
+875,107,4,Modul 4: Praktik Langsung,10.0
+876,107,5,Modul 5: Studi Kasus 2,13.0
+877,107,6,Modul 6: Teknik Lanjutan,37.0
+878,107,7,Modul 7: Tools & Best Practices,40.0
+879,107,8,Modul 8: Project Mini,59.0
+880,107,9,Modul 9: Evaluasi & Quiz,21.0
+881,107,10,Modul 10: Studi Kasus Lanjutan,21.0
+882,108,1,Modul 1: Pengenalan & Overview,18.0
+883,108,2,Modul 2: Konsep Dasar,52.0
+884,108,3,Modul 3: Studi Kasus 1,30.0
+885,108,4,Modul 4: Praktik Langsung,34.0
+886,108,5,Modul 5: Studi Kasus 2,48.0
+887,108,6,Modul 6: Teknik Lanjutan,58.0
+888,109,1,Modul 1: Pengenalan & Overview,35.0
+889,109,2,Modul 2: Konsep Dasar,28.0
+890,109,3,Modul 3: Studi Kasus 1,18.0
+891,109,4,Modul 4: Praktik Langsung,48.0
+892,109,5,Modul 5: Studi Kasus 2,57.0
+893,109,6,Modul 6: Teknik Lanjutan,54.0
+894,109,7,Modul 7: Tools & Best Practices,30.0
+895,109,8,Modul 8: Project Mini,45.0
+896,109,9,Modul 9: Evaluasi & Quiz,22.0
+897,109,10,Modul 10: Studi Kasus Lanjutan,55.0
+898,109,11,Modul 11: Optimasi & Tips,32.0
+899,109,12,Modul 12: Final Project,18.0
+900,110,1,Modul 1: Pengenalan & Overview,51.0
+901,110,2,Modul 2: Konsep Dasar,21.0
+902,110,3,Modul 3: Studi Kasus 1,54.0
+903,110,4,Modul 4: Praktik Langsung,55.0
+904,110,5,Modul 5: Studi Kasus 2,32.0
+905,110,6,Modul 6: Teknik Lanjutan,47.0
+906,110,7,Modul 7: Tools & Best Practices,52.0
+907,110,8,Modul 8: Project Mini,53.0
+908,110,9,Modul 9: Evaluasi & Quiz,44.0
+909,110,10,Modul 10: Studi Kasus Lanjutan,37.0
+910,110,11,Modul 11: Optimasi & Tips,43.0
+911,111,1,Modul 1: Pengenalan & Overview,34.0
+912,111,2,Modul 2: Konsep Dasar,52.0
+913,111,3,Modul 3: Studi Kasus 1,27.0
+914,111,4,Modul 4: Praktik Langsung,20.0
+915,111,5,Modul 5: Studi Kasus 2,53.0
+916,111,6,Modul 6: Teknik Lanjutan,13.0
+917,111,7,Modul 7: Tools & Best Practices,28.0
+918,111,8,Modul 8: Project Mini,44.0
+919,111,9,Modul 9: Evaluasi & Quiz,38.0
+920,111,10,Modul 10: Studi Kasus Lanjutan,53.0
+921,111,11,Modul 11: Optimasi & Tips,24.0
+922,111,12,Modul 12: Final Project,45.0
+923,112,1,Modul 1: Pengenalan & Overview,42.0
+924,112,2,Modul 2: Konsep Dasar,54.0
+925,112,3,Modul 3: Studi Kasus 1,52.0
+926,112,4,Modul 4: Praktik Langsung,34.0
+927,112,5,Modul 5: Studi Kasus 2,60.0
+928,113,1,Modul 1: Pengenalan & Overview,30.0
+929,113,2,Modul 2: Konsep Dasar,38.25
+930,113,3,Modul 3: Studi Kasus 1,26.0
+931,113,4,Modul 4: Praktik Langsung,59.0
+932,113,5,Modul 5: Studi Kasus 2,38.0
+933,114,1,Modul 1: Pengenalan & Overview,50.0
+934,114,2,Modul 2: Konsep Dasar,51.0
+935,114,3,Modul 3: Studi Kasus 1,47.0
+936,114,4,Modul 4: Praktik Langsung,48.0
+937,114,5,Modul 5: Studi Kasus 2,56.0
+938,114,6,Modul 6: Teknik Lanjutan,28.0
+939,114,7,Modul 7: Tools & Best Practices,53.0
+940,114,8,Modul 8: Project Mini,21.0
+941,115,1,Modul 1: Pengenalan & Overview,17.0
+942,115,2,Modul 2: Konsep Dasar,37.0
+943,115,3,Modul 3: Studi Kasus 1,26.0
+944,115,4,Modul 4: Praktik Langsung,47.0
+945,115,5,Modul 5: Studi Kasus 2,10.0
+946,115,6,Modul 6: Teknik Lanjutan,55.0
+947,116,1,Modul 1: Pengenalan & Overview,12.0
+948,116,2,Modul 2: Konsep Dasar,30.0
+949,116,3,Modul 3: Studi Kasus 1,59.0
+950,116,4,Modul 4: Praktik Langsung,49.0
+951,116,5,Modul 5: Studi Kasus 2,29.0
+952,116,6,Modul 6: Teknik Lanjutan,46.0
+953,116,7,Modul 7: Tools & Best Practices,14.0
+954,116,8,Modul 8: Project Mini,30.0
+955,116,9,Modul 9: Evaluasi & Quiz,21.0
+956,116,10,Modul 10: Studi Kasus Lanjutan,60.0
+957,116,11,Modul 11: Optimasi & Tips,36.0
+958,117,1,Modul 1: Pengenalan & Overview,35.0
+959,117,2,Modul 2: Konsep Dasar,24.0
+960,117,3,Modul 3: Studi Kasus 1,52.0
+961,117,4,Modul 4: Praktik Langsung,33.0
+962,117,5,Modul 5: Studi Kasus 2,58.0
+963,117,6,Modul 6: Teknik Lanjutan,40.0
+964,117,7,Modul 7: Tools & Best Practices,58.0
+965,117,8,Modul 8: Project Mini,10.0
+966,117,9,Modul 9: Evaluasi & Quiz,32.0
+967,117,10,Modul 10: Studi Kasus Lanjutan,51.0
+968,117,11,Modul 11: Optimasi & Tips,49.0
+969,117,12,Modul 12: Final Project,12.0
+970,118,1,Modul 1: Pengenalan & Overview,30.0
+971,118,2,Modul 2: Konsep Dasar,60.0
+972,118,3,Modul 3: Studi Kasus 1,34.0
+973,118,4,Modul 4: Praktik Langsung,56.0
+974,118,5,Modul 5: Studi Kasus 2,43.0
+975,118,6,Modul 6: Teknik Lanjutan,33.0
+976,118,7,Modul 7: Tools & Best Practices,42.0
+977,118,8,Modul 8: Project Mini,12.0
+978,119,1,Modul 1: Pengenalan & Overview,51.0
+979,119,2,Modul 2: Konsep Dasar,42.0
+980,119,3,Modul 3: Studi Kasus 1,16.0
+981,119,4,Modul 4: Praktik Langsung,59.0
+982,119,5,Modul 5: Studi Kasus 2,10.0
+983,119,6,Modul 6: Teknik Lanjutan,23.0
+984,119,7,Modul 7: Tools & Best Practices,59.0
+985,119,8,Modul 8: Project Mini,53.0
+986,120,1,Modul 1: Pengenalan & Overview,16.0
+987,120,2,Modul 2: Konsep Dasar,54.0
+988,120,3,Modul 3: Studi Kasus 1,57.0
+989,120,4,Modul 4: Praktik Langsung,51.0
+990,121,1,Modul 1: Pengenalan & Overview,14.0
+991,121,2,Modul 2: Konsep Dasar,19.0
+992,121,3,Modul 3: Studi Kasus 1,55.0
+993,121,4,Modul 4: Praktik Langsung,15.0
+994,121,5,Modul 5: Studi Kasus 2,21.0
+995,121,6,Modul 6: Teknik Lanjutan,45.0
+996,121,7,Modul 7: Tools & Best Practices,24.0
+997,122,1,Modul 1: Pengenalan & Overview,36.0
+998,122,2,Modul 2: Konsep Dasar,50.0
+999,122,3,Modul 3: Studi Kasus 1,46.333333333333336
+1000,122,4,Modul 4: Praktik Langsung,53.0
+1001,123,1,Modul 1: Pengenalan & Overview,10.0
+1002,123,2,Modul 2: Konsep Dasar,49.0
+1003,123,3,Modul 3: Studi Kasus 1,57.0
+1004,123,4,Modul 4: Praktik Langsung,54.0
+1005,123,5,Modul 5: Studi Kasus 2,32.0
+1006,123,6,Modul 6: Teknik Lanjutan,16.0
+1007,123,7,Modul 7: Tools & Best Practices,53.0
+1008,123,8,Modul 8: Project Mini,15.0
+1009,124,1,Modul 1: Pengenalan & Overview,38.0
+1010,124,2,Modul 2: Konsep Dasar,52.0
+1011,124,3,Modul 3: Studi Kasus 1,20.0
+1012,124,4,Modul 4: Praktik Langsung,18.0
+1013,124,5,Modul 5: Studi Kasus 2,60.0
+1014,124,6,Modul 6: Teknik Lanjutan,44.0
+1015,125,1,Modul 1: Pengenalan & Overview,50.0
+1016,125,2,Modul 2: Konsep Dasar,53.0
+1017,125,3,Modul 3: Studi Kasus 1,60.0
+1018,125,4,Modul 4: Praktik Langsung,51.0
+1019,125,5,Modul 5: Studi Kasus 2,10.0
+1020,126,1,Modul 1: Pengenalan & Overview,45.0
+1021,126,2,Modul 2: Konsep Dasar,38.888888888888886
+1022,126,3,Modul 3: Studi Kasus 1,48.0
+1023,126,4,Modul 4: Praktik Langsung,45.0
+1024,126,5,Modul 5: Studi Kasus 2,29.0
+1025,126,6,Modul 6: Teknik Lanjutan,57.0
+1026,126,7,Modul 7: Tools & Best Practices,32.0
+1027,126,8,Modul 8: Project Mini,51.0
+1028,126,9,Modul 9: Evaluasi & Quiz,19.0
+1029,126,10,Modul 10: Studi Kasus Lanjutan,24.0
+1030,127,1,Modul 1: Pengenalan & Overview,26.0
+1031,127,2,Modul 2: Konsep Dasar,21.0
+1032,127,3,Modul 3: Studi Kasus 1,46.0
+1033,127,4,Modul 4: Praktik Langsung,58.0
+1034,127,5,Modul 5: Studi Kasus 2,45.0
+1035,128,1,Modul 1: Pengenalan & Overview,45.0
+1036,128,2,Modul 2: Konsep Dasar,52.0
+1037,128,3,Modul 3: Studi Kasus 1,16.0
+1038,128,4,Modul 4: Praktik Langsung,47.0
+1039,128,5,Modul 5: Studi Kasus 2,31.0
+1040,128,6,Modul 6: Teknik Lanjutan,52.0
+1041,128,7,Modul 7: Tools & Best Practices,16.0
+1042,128,8,Modul 8: Project Mini,14.0
+1043,128,9,Modul 9: Evaluasi & Quiz,30.0
+1044,128,10,Modul 10: Studi Kasus Lanjutan,31.0
+1045,128,11,Modul 11: Optimasi & Tips,29.0
+1046,129,1,Modul 1: Pengenalan & Overview,19.0
+1047,129,2,Modul 2: Konsep Dasar,33.0
+1048,129,3,Modul 3: Studi Kasus 1,37.0
+1049,129,4,Modul 4: Praktik Langsung,30.0
+1050,130,1,Modul 1: Pengenalan & Overview,24.0
+1051,130,2,Modul 2: Konsep Dasar,51.0
+1052,130,3,Modul 3: Studi Kasus 1,33.0
+1053,130,4,Modul 4: Praktik Langsung,56.0
+1054,130,5,Modul 5: Studi Kasus 2,40.0
+1055,130,6,Modul 6: Teknik Lanjutan,32.0
+1056,130,7,Modul 7: Tools & Best Practices,41.0
+1057,130,8,Modul 8: Project Mini,21.0
+1058,130,9,Modul 9: Evaluasi & Quiz,15.0
+1059,130,10,Modul 10: Studi Kasus Lanjutan,18.0
+1060,130,11,Modul 11: Optimasi & Tips,22.0
+1061,131,1,Modul 1: Pengenalan & Overview,50.0
+1062,131,2,Modul 2: Konsep Dasar,14.0
+1063,131,3,Modul 3: Studi Kasus 1,42.0
+1064,131,4,Modul 4: Praktik Langsung,47.0
+1065,131,5,Modul 5: Studi Kasus 2,59.0
+1066,132,1,Modul 1: Pengenalan & Overview,12.0
+1067,132,2,Modul 2: Konsep Dasar,44.0
+1068,132,3,Modul 3: Studi Kasus 1,44.0
+1069,132,4,Modul 4: Praktik Langsung,59.0
+1070,132,5,Modul 5: Studi Kasus 2,35.0
+1071,132,6,Modul 6: Teknik Lanjutan,59.0
+1072,132,7,Modul 7: Tools & Best Practices,28.0
+1073,132,8,Modul 8: Project Mini,42.0
+1074,132,9,Modul 9: Evaluasi & Quiz,35.0
+1075,132,10,Modul 10: Studi Kasus Lanjutan,10.0
+1076,132,11,Modul 11: Optimasi & Tips,49.0
+1077,133,1,Modul 1: Pengenalan & Overview,58.0
+1078,133,2,Modul 2: Konsep Dasar,38.0
+1079,133,3,Modul 3: Studi Kasus 1,46.0
+1080,133,4,Modul 4: Praktik Langsung,52.0
+1081,133,5,Modul 5: Studi Kasus 2,19.0
+1082,133,6,Modul 6: Teknik Lanjutan,40.0
+1083,133,7,Modul 7: Tools & Best Practices,12.0
+1084,133,8,Modul 8: Project Mini,41.0
+1085,133,9,Modul 9: Evaluasi & Quiz,26.0
+1086,133,10,Modul 10: Studi Kasus Lanjutan,12.0
+1087,134,1,Modul 1: Pengenalan & Overview,43.0
+1088,134,2,Modul 2: Konsep Dasar,33.0
+1089,134,3,Modul 3: Studi Kasus 1,39.0
+1090,134,4,Modul 4: Praktik Langsung,12.0
+1091,134,5,Modul 5: Studi Kasus 2,30.0
+1092,134,6,Modul 6: Teknik Lanjutan,43.0
+1093,134,7,Modul 7: Tools & Best Practices,27.0
+1094,134,8,Modul 8: Project Mini,26.0
+1095,134,9,Modul 9: Evaluasi & Quiz,46.0
+1096,135,1,Modul 1: Pengenalan & Overview,51.0
+1097,135,2,Modul 2: Konsep Dasar,47.0
+1098,135,3,Modul 3: Studi Kasus 1,14.0
+1099,135,4,Modul 4: Praktik Langsung,34.0
+1100,135,5,Modul 5: Studi Kasus 2,24.0
+1101,135,6,Modul 6: Teknik Lanjutan,32.0
+1102,135,7,Modul 7: Tools & Best Practices,32.0
+1103,136,1,Modul 1: Pengenalan & Overview,40.0
+1104,136,2,Modul 2: Konsep Dasar,10.0
+1105,136,3,Modul 3: Studi Kasus 1,18.0
+1106,136,4,Modul 4: Praktik Langsung,24.0
+1107,136,5,Modul 5: Studi Kasus 2,51.0
+1108,136,6,Modul 6: Teknik Lanjutan,19.0
+1109,136,7,Modul 7: Tools & Best Practices,33.0
+1110,136,8,Modul 8: Project Mini,17.0
+1111,136,9,Modul 9: Evaluasi & Quiz,36.0
+1112,136,10,Modul 10: Studi Kasus Lanjutan,56.0
+1113,136,11,Modul 11: Optimasi & Tips,53.0
+1114,136,12,Modul 12: Final Project,23.0
+1115,137,1,Modul 1: Pengenalan & Overview,51.0
+1116,137,2,Modul 2: Konsep Dasar,11.0
+1117,137,3,Modul 3: Studi Kasus 1,18.0
+1118,137,4,Modul 4: Praktik Langsung,20.0
+1119,137,5,Modul 5: Studi Kasus 2,42.0
+1120,137,6,Modul 6: Teknik Lanjutan,46.0
+1121,137,7,Modul 7: Tools & Best Practices,20.0
+1122,137,8,Modul 8: Project Mini,21.0
+1123,137,9,Modul 9: Evaluasi & Quiz,35.0
+1124,138,1,Modul 1: Pengenalan & Overview,46.0
+1125,138,2,Modul 2: Konsep Dasar,56.0
+1126,138,3,Modul 3: Studi Kasus 1,28.0
+1127,138,4,Modul 4: Praktik Langsung,23.0
+1128,139,1,Modul 1: Pengenalan & Overview,40.0
+1129,139,2,Modul 2: Konsep Dasar,20.0
+1130,139,3,Modul 3: Studi Kasus 1,36.0
+1131,139,4,Modul 4: Praktik Langsung,60.0
+1132,139,5,Modul 5: Studi Kasus 2,59.0
+1133,139,6,Modul 6: Teknik Lanjutan,52.0
+1134,139,7,Modul 7: Tools & Best Practices,20.0
+1135,139,8,Modul 8: Project Mini,31.0
+1136,139,9,Modul 9: Evaluasi & Quiz,48.0
+1137,140,1,Modul 1: Pengenalan & Overview,24.0
+1138,140,2,Modul 2: Konsep Dasar,18.0
+1139,140,3,Modul 3: Studi Kasus 1,22.0
+1140,140,4,Modul 4: Praktik Langsung,42.0
+1141,140,5,Modul 5: Studi Kasus 2,19.0
+1142,140,6,Modul 6: Teknik Lanjutan,21.0
+1143,140,7,Modul 7: Tools & Best Practices,49.0
+1144,140,8,Modul 8: Project Mini,60.0
+1145,140,9,Modul 9: Evaluasi & Quiz,58.0
+1146,140,10,Modul 10: Studi Kasus Lanjutan,40.0
+1147,140,11,Modul 11: Optimasi & Tips,48.0
+1148,140,12,Modul 12: Final Project,10.0
+1149,141,1,Modul 1: Pengenalan & Overview,59.0
+1150,141,2,Modul 2: Konsep Dasar,37.0
+1151,141,3,Modul 3: Studi Kasus 1,33.0
+1152,141,4,Modul 4: Praktik Langsung,54.0
+1153,141,5,Modul 5: Studi Kasus 2,24.0
+1154,142,1,Modul 1: Pengenalan & Overview,40.0
+1155,142,2,Modul 2: Konsep Dasar,34.0
+1156,142,3,Modul 3: Studi Kasus 1,57.0
+1157,142,4,Modul 4: Praktik Langsung,54.0
+1158,142,5,Modul 5: Studi Kasus 2,37.0
+1159,143,1,Modul 1: Pengenalan & Overview,40.0
+1160,143,2,Modul 2: Konsep Dasar,15.0
+1161,143,3,Modul 3: Studi Kasus 1,44.0
+1162,143,4,Modul 4: Praktik Langsung,38.888888888888886
+1163,143,5,Modul 5: Studi Kasus 2,57.0
+1164,143,6,Modul 6: Teknik Lanjutan,46.0
+1165,143,7,Modul 7: Tools & Best Practices,38.888888888888886
+1166,143,8,Modul 8: Project Mini,51.0
+1167,143,9,Modul 9: Evaluasi & Quiz,30.0
+1168,143,10,Modul 10: Studi Kasus Lanjutan,16.0
+1169,143,11,Modul 11: Optimasi & Tips,51.0
+1170,144,1,Modul 1: Pengenalan & Overview,26.0
+1171,144,2,Modul 2: Konsep Dasar,37.0
+1172,144,3,Modul 3: Studi Kasus 1,49.0
+1173,144,4,Modul 4: Praktik Langsung,53.0
+1174,144,5,Modul 5: Studi Kasus 2,23.0
+1175,144,6,Modul 6: Teknik Lanjutan,60.0
+1176,144,7,Modul 7: Tools & Best Practices,21.0
+1177,144,8,Modul 8: Project Mini,45.0
+1178,144,9,Modul 9: Evaluasi & Quiz,29.0
+1179,144,10,Modul 10: Studi Kasus Lanjutan,59.0
+1180,144,11,Modul 11: Optimasi & Tips,57.0
+1181,145,1,Modul 1: Pengenalan & Overview,52.0
+1182,145,2,Modul 2: Konsep Dasar,24.0
+1183,145,3,Modul 3: Studi Kasus 1,54.0
+1184,145,4,Modul 4: Praktik Langsung,16.0
+1185,145,5,Modul 5: Studi Kasus 2,35.0
+1186,146,1,Modul 1: Pengenalan & Overview,45.0
+1187,146,2,Modul 2: Konsep Dasar,53.0
+1188,146,3,Modul 3: Studi Kasus 1,20.0
+1189,146,4,Modul 4: Praktik Langsung,33.25
+1190,146,5,Modul 5: Studi Kasus 2,15.0
+1191,147,1,Modul 1: Pengenalan & Overview,40.0
+1192,147,2,Modul 2: Konsep Dasar,37.0
+1193,147,3,Modul 3: Studi Kasus 1,26.0
+1194,147,4,Modul 4: Praktik Langsung,15.0
+1195,148,1,Modul 1: Pengenalan & Overview,56.0
+1196,148,2,Modul 2: Konsep Dasar,35.0
+1197,148,3,Modul 3: Studi Kasus 1,43.0
+1198,148,4,Modul 4: Praktik Langsung,48.0
+1199,148,5,Modul 5: Studi Kasus 2,59.0
+1200,148,6,Modul 6: Teknik Lanjutan,50.0
+1201,148,7,Modul 7: Tools & Best Practices,10.0
+1202,148,8,Modul 8: Project Mini,52.0
+1203,148,9,Modul 9: Evaluasi & Quiz,43.0
+1204,148,10,Modul 10: Studi Kasus Lanjutan,12.0
+1205,149,1,Modul 1: Pengenalan & Overview,42.0
+1206,149,2,Modul 2: Konsep Dasar,24.0
+1207,149,3,Modul 3: Studi Kasus 1,53.0
+1208,149,4,Modul 4: Praktik Langsung,25.0
+1209,149,5,Modul 5: Studi Kasus 2,20.0
+1210,149,6,Modul 6: Teknik Lanjutan,27.0
+1211,149,7,Modul 7: Tools & Best Practices,32.0
+1212,149,8,Modul 8: Project Mini,35.0
+1213,149,9,Modul 9: Evaluasi & Quiz,34.90909090909091
+1214,149,10,Modul 10: Studi Kasus Lanjutan,55.0
+1215,149,11,Modul 11: Optimasi & Tips,15.0
+1216,149,12,Modul 12: Final Project,56.0
+1217,150,1,Modul 1: Pengenalan & Overview,47.0
+1218,150,2,Modul 2: Konsep Dasar,27.0
+1219,150,3,Modul 3: Studi Kasus 1,22.0
+1220,150,4,Modul 4: Praktik Langsung,35.0
+1221,150,5,Modul 5: Studi Kasus 2,26.0
+1222,150,6,Modul 6: Teknik Lanjutan,42.0
+1223,150,7,Modul 7: Tools & Best Practices,14.0
+1224,151,1,Modul 1: Pengenalan & Overview,31.0
+1225,151,2,Modul 2: Konsep Dasar,42.0
+1226,151,3,Modul 3: Studi Kasus 1,44.0
+1227,151,4,Modul 4: Praktik Langsung,46.0
+1228,151,5,Modul 5: Studi Kasus 2,38.0
+1229,151,6,Modul 6: Teknik Lanjutan,46.0
+1230,152,1,Modul 1: Pengenalan & Overview,25.0
+1231,152,2,Modul 2: Konsep Dasar,59.0
+1232,152,3,Modul 3: Studi Kasus 1,39.0
+1233,152,4,Modul 4: Praktik Langsung,11.0
+1234,152,5,Modul 5: Studi Kasus 2,26.0
+1235,152,6,Modul 6: Teknik Lanjutan,50.0
+1236,152,7,Modul 7: Tools & Best Practices,24.0
+1237,152,8,Modul 8: Project Mini,24.0
+1238,152,9,Modul 9: Evaluasi & Quiz,36.0
+1239,152,10,Modul 10: Studi Kasus Lanjutan,43.0
+1240,153,1,Modul 1: Pengenalan & Overview,54.0
+1241,153,2,Modul 2: Konsep Dasar,25.0
+1242,153,3,Modul 3: Studi Kasus 1,35.0
+1243,153,4,Modul 4: Praktik Langsung,31.0
+1244,153,5,Modul 5: Studi Kasus 2,21.0
+1245,153,6,Modul 6: Teknik Lanjutan,32.0
+1246,153,7,Modul 7: Tools & Best Practices,46.0
+1247,153,8,Modul 8: Project Mini,57.0
+1248,153,9,Modul 9: Evaluasi & Quiz,22.0
+1249,153,10,Modul 10: Studi Kasus Lanjutan,22.0
+1250,153,11,Modul 11: Optimasi & Tips,25.0
+1251,154,1,Modul 1: Pengenalan & Overview,23.0
+1252,154,2,Modul 2: Konsep Dasar,25.0
+1253,154,3,Modul 3: Studi Kasus 1,32.0
+1254,154,4,Modul 4: Praktik Langsung,16.0
+1255,154,5,Modul 5: Studi Kasus 2,15.0
+1256,154,6,Modul 6: Teknik Lanjutan,52.0
+1257,155,1,Modul 1: Pengenalan & Overview,10.0
+1258,155,2,Modul 2: Konsep Dasar,44.0
+1259,155,3,Modul 3: Studi Kasus 1,40.0
+1260,155,4,Modul 4: Praktik Langsung,30.0
+1261,155,5,Modul 5: Studi Kasus 2,46.0
+1262,155,6,Modul 6: Teknik Lanjutan,41.0
+1263,155,7,Modul 7: Tools & Best Practices,58.0
+1264,155,8,Modul 8: Project Mini,27.0
+1265,155,9,Modul 9: Evaluasi & Quiz,58.0
+1266,155,10,Modul 10: Studi Kasus Lanjutan,13.0
+1267,155,11,Modul 11: Optimasi & Tips,37.0
+1268,156,1,Modul 1: Pengenalan & Overview,44.0
+1269,156,2,Modul 2: Konsep Dasar,32.0
+1270,156,3,Modul 3: Studi Kasus 1,53.0
+1271,156,4,Modul 4: Praktik Langsung,39.0
+1272,156,5,Modul 5: Studi Kasus 2,54.0
+1273,157,1,Modul 1: Pengenalan & Overview,30.0
+1274,157,2,Modul 2: Konsep Dasar,10.0
+1275,157,3,Modul 3: Studi Kasus 1,34.0
+1276,157,4,Modul 4: Praktik Langsung,30.0
+1277,157,5,Modul 5: Studi Kasus 2,26.0
+1278,157,6,Modul 6: Teknik Lanjutan,26.0
+1279,157,7,Modul 7: Tools & Best Practices,40.0
+1280,157,8,Modul 8: Project Mini,31.0
+1281,157,9,Modul 9: Evaluasi & Quiz,41.0
+1282,157,10,Modul 10: Studi Kasus Lanjutan,36.0
+1283,158,1,Modul 1: Pengenalan & Overview,33.0
+1284,158,2,Modul 2: Konsep Dasar,35.0
+1285,158,3,Modul 3: Studi Kasus 1,21.0
+1286,158,4,Modul 4: Praktik Langsung,46.0
+1287,158,5,Modul 5: Studi Kasus 2,16.0
+1288,158,6,Modul 6: Teknik Lanjutan,25.0
+1289,158,7,Modul 7: Tools & Best Practices,34.0
+1290,158,8,Modul 8: Project Mini,57.0
+1291,159,1,Modul 1: Pengenalan & Overview,10.0
+1292,159,2,Modul 2: Konsep Dasar,41.0
+1293,159,3,Modul 3: Studi Kasus 1,50.0
+1294,159,4,Modul 4: Praktik Langsung,56.0
+1295,159,5,Modul 5: Studi Kasus 2,41.0
+1296,159,6,Modul 6: Teknik Lanjutan,45.0
+1297,159,7,Modul 7: Tools & Best Practices,13.0
+1298,159,8,Modul 8: Project Mini,54.0
+1299,159,9,Modul 9: Evaluasi & Quiz,23.0
+1300,159,10,Modul 10: Studi Kasus Lanjutan,40.0
+1301,160,1,Modul 1: Pengenalan & Overview,16.0
+1302,160,2,Modul 2: Konsep Dasar,31.0
+1303,160,3,Modul 3: Studi Kasus 1,33.0
+1304,160,4,Modul 4: Praktik Langsung,26.0
+1305,161,1,Modul 1: Pengenalan & Overview,36.0
+1306,161,2,Modul 2: Konsep Dasar,53.0
+1307,161,3,Modul 3: Studi Kasus 1,22.0
+1308,161,4,Modul 4: Praktik Langsung,51.0
+1309,161,5,Modul 5: Studi Kasus 2,21.0
+1310,161,6,Modul 6: Teknik Lanjutan,28.0
+1311,161,7,Modul 7: Tools & Best Practices,53.0
+1312,161,8,Modul 8: Project Mini,59.0
+1313,161,9,Modul 9: Evaluasi & Quiz,15.0
+1314,161,10,Modul 10: Studi Kasus Lanjutan,28.0
+1315,162,1,Modul 1: Pengenalan & Overview,19.0
+1316,162,2,Modul 2: Konsep Dasar,50.0
+1317,162,3,Modul 3: Studi Kasus 1,31.0
+1318,162,4,Modul 4: Praktik Langsung,49.0
+1319,162,5,Modul 5: Studi Kasus 2,14.0
+1320,162,6,Modul 6: Teknik Lanjutan,31.0
+1321,162,7,Modul 7: Tools & Best Practices,30.0
+1322,162,8,Modul 8: Project Mini,55.0
+1323,162,9,Modul 9: Evaluasi & Quiz,51.0
+1324,162,10,Modul 10: Studi Kasus Lanjutan,38.0
+1325,163,1,Modul 1: Pengenalan & Overview,33.0
+1326,163,2,Modul 2: Konsep Dasar,43.0
+1327,163,3,Modul 3: Studi Kasus 1,36.0
+1328,163,4,Modul 4: Praktik Langsung,11.0
+1329,163,5,Modul 5: Studi Kasus 2,25.0
+1330,163,6,Modul 6: Teknik Lanjutan,57.0
+1331,163,7,Modul 7: Tools & Best Practices,15.0
+1332,163,8,Modul 8: Project Mini,35.0
+1333,164,1,Modul 1: Pengenalan & Overview,14.0
+1334,164,2,Modul 2: Konsep Dasar,40.0
+1335,164,3,Modul 3: Studi Kasus 1,11.0
+1336,164,4,Modul 4: Praktik Langsung,43.0
+1337,164,5,Modul 5: Studi Kasus 2,15.0
+1338,165,1,Modul 1: Pengenalan & Overview,49.0
+1339,165,2,Modul 2: Konsep Dasar,51.0
+1340,165,3,Modul 3: Studi Kasus 1,34.0
+1341,165,4,Modul 4: Praktik Langsung,25.0
+1342,165,5,Modul 5: Studi Kasus 2,38.0
+1343,165,6,Modul 6: Teknik Lanjutan,18.0
+1344,166,1,Modul 1: Pengenalan & Overview,20.0
+1345,166,2,Modul 2: Konsep Dasar,52.0
+1346,166,3,Modul 3: Studi Kasus 1,30.0
+1347,166,4,Modul 4: Praktik Langsung,39.0
+1348,166,5,Modul 5: Studi Kasus 2,44.0
+1349,166,6,Modul 6: Teknik Lanjutan,45.0
+1350,166,7,Modul 7: Tools & Best Practices,54.0
+1351,166,8,Modul 8: Project Mini,47.0
+1352,166,9,Modul 9: Evaluasi & Quiz,50.0
+1353,166,10,Modul 10: Studi Kasus Lanjutan,46.0
+1354,166,11,Modul 11: Optimasi & Tips,50.0
+1355,167,1,Modul 1: Pengenalan & Overview,29.0
+1356,167,2,Modul 2: Konsep Dasar,40.0
+1357,167,3,Modul 3: Studi Kasus 1,15.0
+1358,167,4,Modul 4: Praktik Langsung,33.0
+1359,167,5,Modul 5: Studi Kasus 2,19.0
+1360,167,6,Modul 6: Teknik Lanjutan,10.0
+1361,167,7,Modul 7: Tools & Best Practices,58.0
+1362,167,8,Modul 8: Project Mini,32.0
+1363,167,9,Modul 9: Evaluasi & Quiz,31.7
+1364,167,10,Modul 10: Studi Kasus Lanjutan,41.0
+1365,167,11,Modul 11: Optimasi & Tips,40.0
+1366,168,1,Modul 1: Pengenalan & Overview,59.0
+1367,168,2,Modul 2: Konsep Dasar,28.0
+1368,168,3,Modul 3: Studi Kasus 1,38.45454545454545
+1369,168,4,Modul 4: Praktik Langsung,33.0
+1370,168,5,Modul 5: Studi Kasus 2,45.0
+1371,168,6,Modul 6: Teknik Lanjutan,25.0
+1372,168,7,Modul 7: Tools & Best Practices,57.0
+1373,168,8,Modul 8: Project Mini,34.0
+1374,168,9,Modul 9: Evaluasi & Quiz,15.0
+1375,168,10,Modul 10: Studi Kasus Lanjutan,25.0
+1376,168,11,Modul 11: Optimasi & Tips,49.0
+1377,168,12,Modul 12: Final Project,53.0
+1378,169,1,Modul 1: Pengenalan & Overview,51.0
+1379,169,2,Modul 2: Konsep Dasar,27.0
+1380,169,3,Modul 3: Studi Kasus 1,14.0
+1381,169,4,Modul 4: Praktik Langsung,28.0
+1382,169,5,Modul 5: Studi Kasus 2,39.0
+1383,170,1,Modul 1: Pengenalan & Overview,27.0
+1384,170,2,Modul 2: Konsep Dasar,41.0
+1385,170,3,Modul 3: Studi Kasus 1,11.0
+1386,170,4,Modul 4: Praktik Langsung,44.0
+1387,170,5,Modul 5: Studi Kasus 2,16.0
+1388,170,6,Modul 6: Teknik Lanjutan,18.0
+1389,170,7,Modul 7: Tools & Best Practices,26.625
+1390,170,8,Modul 8: Project Mini,15.0
+1391,170,9,Modul 9: Evaluasi & Quiz,41.0
+1392,171,1,Modul 1: Pengenalan & Overview,36.0
+1393,171,2,Modul 2: Konsep Dasar,41.0
+1394,171,3,Modul 3: Studi Kasus 1,39.0
+1395,171,4,Modul 4: Praktik Langsung,12.0
+1396,171,5,Modul 5: Studi Kasus 2,58.0
+1397,172,1,Modul 1: Pengenalan & Overview,13.0
+1398,172,2,Modul 2: Konsep Dasar,35.0
+1399,172,3,Modul 3: Studi Kasus 1,40.0
+1400,172,4,Modul 4: Praktik Langsung,26.0
+1401,172,5,Modul 5: Studi Kasus 2,10.0
+1402,172,6,Modul 6: Teknik Lanjutan,59.0
+1403,172,7,Modul 7: Tools & Best Practices,34.0
+1404,172,8,Modul 8: Project Mini,38.0
+1405,172,9,Modul 9: Evaluasi & Quiz,12.0
+1406,173,1,Modul 1: Pengenalan & Overview,57.0
+1407,173,2,Modul 2: Konsep Dasar,43.0
+1408,173,3,Modul 3: Studi Kasus 1,23.0
+1409,173,4,Modul 4: Praktik Langsung,53.0
+1410,173,5,Modul 5: Studi Kasus 2,30.0
+1411,173,6,Modul 6: Teknik Lanjutan,56.0
+1412,173,7,Modul 7: Tools & Best Practices,45.0
+1413,173,8,Modul 8: Project Mini,26.0
+1414,173,9,Modul 9: Evaluasi & Quiz,29.0
+1415,174,1,Modul 1: Pengenalan & Overview,13.0
+1416,174,2,Modul 2: Konsep Dasar,23.0
+1417,174,3,Modul 3: Studi Kasus 1,25.0
+1418,174,4,Modul 4: Praktik Langsung,29.142857142857142
+1419,174,5,Modul 5: Studi Kasus 2,60.0
+1420,174,6,Modul 6: Teknik Lanjutan,17.0
+1421,174,7,Modul 7: Tools & Best Practices,29.142857142857142
+1422,174,8,Modul 8: Project Mini,12.0
+1423,174,9,Modul 9: Evaluasi & Quiz,54.0
+1424,175,1,Modul 1: Pengenalan & Overview,48.0
+1425,175,2,Modul 2: Konsep Dasar,59.0
+1426,175,3,Modul 3: Studi Kasus 1,20.0
+1427,175,4,Modul 4: Praktik Langsung,53.0
+1428,175,5,Modul 5: Studi Kasus 2,58.0
+1429,176,1,Modul 1: Pengenalan & Overview,13.0
+1430,176,2,Modul 2: Konsep Dasar,19.0
+1431,176,3,Modul 3: Studi Kasus 1,60.0
+1432,176,4,Modul 4: Praktik Langsung,41.0
+1433,176,5,Modul 5: Studi Kasus 2,45.0
+1434,177,1,Modul 1: Pengenalan & Overview,58.0
+1435,177,2,Modul 2: Konsep Dasar,38.0
+1436,177,3,Modul 3: Studi Kasus 1,11.0
+1437,177,4,Modul 4: Praktik Langsung,32.0
+1438,177,5,Modul 5: Studi Kasus 2,26.0
+1439,177,6,Modul 6: Teknik Lanjutan,41.0
+1440,178,1,Modul 1: Pengenalan & Overview,45.0
+1441,178,2,Modul 2: Konsep Dasar,54.0
+1442,178,3,Modul 3: Studi Kasus 1,46.0
+1443,178,4,Modul 4: Praktik Langsung,32.0
+1444,178,5,Modul 5: Studi Kasus 2,39.0
+1445,179,1,Modul 1: Pengenalan & Overview,48.0
+1446,179,2,Modul 2: Konsep Dasar,45.0
+1447,179,3,Modul 3: Studi Kasus 1,43.0
+1448,179,4,Modul 4: Praktik Langsung,28.0
+1449,179,5,Modul 5: Studi Kasus 2,44.0
+1450,179,6,Modul 6: Teknik Lanjutan,10.0
+1451,179,7,Modul 7: Tools & Best Practices,42.0
+1452,179,8,Modul 8: Project Mini,21.0
+1453,179,9,Modul 9: Evaluasi & Quiz,49.0
+1454,179,10,Modul 10: Studi Kasus Lanjutan,59.0
+1455,180,1,Modul 1: Pengenalan & Overview,30.0
+1456,180,2,Modul 2: Konsep Dasar,52.0
+1457,180,3,Modul 3: Studi Kasus 1,34.0
+1458,180,4,Modul 4: Praktik Langsung,53.0
+1459,180,5,Modul 5: Studi Kasus 2,45.0
+1460,180,6,Modul 6: Teknik Lanjutan,28.0
+1461,180,7,Modul 7: Tools & Best Practices,51.0
+1462,180,8,Modul 8: Project Mini,16.0
+1463,180,9,Modul 9: Evaluasi & Quiz,14.0
+1464,180,10,Modul 10: Studi Kasus Lanjutan,18.0
+1465,181,1,Modul 1: Pengenalan & Overview,12.0
+1466,181,2,Modul 2: Konsep Dasar,41.0
+1467,181,3,Modul 3: Studi Kasus 1,12.0
+1468,181,4,Modul 4: Praktik Langsung,34.0
+1469,181,5,Modul 5: Studi Kasus 2,43.0
+1470,181,6,Modul 6: Teknik Lanjutan,47.0
+1471,181,7,Modul 7: Tools & Best Practices,33.0
+1472,181,8,Modul 8: Project Mini,55.0
+1473,181,9,Modul 9: Evaluasi & Quiz,23.0
+1474,181,10,Modul 10: Studi Kasus Lanjutan,15.0
+1475,181,11,Modul 11: Optimasi & Tips,50.0
+1476,181,12,Modul 12: Final Project,45.0
+1477,182,1,Modul 1: Pengenalan & Overview,36.0
+1478,182,2,Modul 2: Konsep Dasar,60.0
+1479,182,3,Modul 3: Studi Kasus 1,49.0
+1480,182,4,Modul 4: Praktik Langsung,12.0
+1481,182,5,Modul 5: Studi Kasus 2,29.0
+1482,182,6,Modul 6: Teknik Lanjutan,23.0
+1483,182,7,Modul 7: Tools & Best Practices,16.0
+1484,182,8,Modul 8: Project Mini,24.0
+1485,182,9,Modul 9: Evaluasi & Quiz,22.0
+1486,182,10,Modul 10: Studi Kasus Lanjutan,52.0
+1487,183,1,Modul 1: Pengenalan & Overview,50.0
+1488,183,2,Modul 2: Konsep Dasar,45.0
+1489,183,3,Modul 3: Studi Kasus 1,36.0
+1490,183,4,Modul 4: Praktik Langsung,59.0
+1491,184,1,Modul 1: Pengenalan & Overview,32.0
+1492,184,2,Modul 2: Konsep Dasar,54.0
+1493,184,3,Modul 3: Studi Kasus 1,16.0
+1494,184,4,Modul 4: Praktik Langsung,21.0
+1495,184,5,Modul 5: Studi Kasus 2,42.0
+1496,185,1,Modul 1: Pengenalan & Overview,20.0
+1497,185,2,Modul 2: Konsep Dasar,48.0
+1498,185,3,Modul 3: Studi Kasus 1,32.0
+1499,185,4,Modul 4: Praktik Langsung,45.0
+1500,185,5,Modul 5: Studi Kasus 2,30.0
+1501,185,6,Modul 6: Teknik Lanjutan,36.0
+1502,185,7,Modul 7: Tools & Best Practices,37.0
+1503,186,1,Modul 1: Pengenalan & Overview,30.0
+1504,186,2,Modul 2: Konsep Dasar,46.0
+1505,186,3,Modul 3: Studi Kasus 1,34.0
+1506,186,4,Modul 4: Praktik Langsung,57.0
+1507,186,5,Modul 5: Studi Kasus 2,38.0
+1508,186,6,Modul 6: Teknik Lanjutan,32.111111111111114
+1509,186,7,Modul 7: Tools & Best Practices,12.0
+1510,186,8,Modul 8: Project Mini,32.111111111111114
+1511,186,9,Modul 9: Evaluasi & Quiz,18.0
+1512,186,10,Modul 10: Studi Kasus Lanjutan,32.111111111111114
+1513,186,11,Modul 11: Optimasi & Tips,24.0
+1514,186,12,Modul 12: Final Project,30.0
+1515,187,1,Modul 1: Pengenalan & Overview,54.0
+1516,187,2,Modul 2: Konsep Dasar,45.0
+1517,187,3,Modul 3: Studi Kasus 1,46.0
+1518,187,4,Modul 4: Praktik Langsung,19.0
+1519,187,5,Modul 5: Studi Kasus 2,39.0
+1520,188,1,Modul 1: Pengenalan & Overview,18.0
+1521,188,2,Modul 2: Konsep Dasar,47.0
+1522,188,3,Modul 3: Studi Kasus 1,26.0
+1523,188,4,Modul 4: Praktik Langsung,15.0
+1524,188,5,Modul 5: Studi Kasus 2,46.0
+1525,188,6,Modul 6: Teknik Lanjutan,56.0
+1526,188,7,Modul 7: Tools & Best Practices,30.0
+1527,188,8,Modul 8: Project Mini,21.0
+1528,189,1,Modul 1: Pengenalan & Overview,54.0
+1529,189,2,Modul 2: Konsep Dasar,16.0
+1530,189,3,Modul 3: Studi Kasus 1,29.0
+1531,189,4,Modul 4: Praktik Langsung,46.0
+1532,190,1,Modul 1: Pengenalan & Overview,59.0
+1533,190,2,Modul 2: Konsep Dasar,59.0
+1534,190,3,Modul 3: Studi Kasus 1,37.0
+1535,190,4,Modul 4: Praktik Langsung,17.0
+1536,190,5,Modul 5: Studi Kasus 2,24.0
+1537,190,6,Modul 6: Teknik Lanjutan,48.0
+1538,190,7,Modul 7: Tools & Best Practices,50.0
+1539,190,8,Modul 8: Project Mini,34.0
+1540,191,1,Modul 1: Pengenalan & Overview,43.0
+1541,191,2,Modul 2: Konsep Dasar,44.0
+1542,191,3,Modul 3: Studi Kasus 1,30.0
+1543,191,4,Modul 4: Praktik Langsung,24.0
+1544,191,5,Modul 5: Studi Kasus 2,53.0
+1545,191,6,Modul 6: Teknik Lanjutan,35.0
+1546,191,7,Modul 7: Tools & Best Practices,58.0
+1547,191,8,Modul 8: Project Mini,42.0
+1548,191,9,Modul 9: Evaluasi & Quiz,37.0
+1549,191,10,Modul 10: Studi Kasus Lanjutan,35.0
+1550,191,11,Modul 11: Optimasi & Tips,31.0
+1551,192,1,Modul 1: Pengenalan & Overview,46.0
+1552,192,2,Modul 2: Konsep Dasar,45.0
+1553,192,3,Modul 3: Studi Kasus 1,15.0
+1554,192,4,Modul 4: Praktik Langsung,37.0
+1555,192,5,Modul 5: Studi Kasus 2,18.0
+1556,192,6,Modul 6: Teknik Lanjutan,40.0
+1557,192,7,Modul 7: Tools & Best Practices,41.0
+1558,192,8,Modul 8: Project Mini,46.0
+1559,192,9,Modul 9: Evaluasi & Quiz,49.0
+1560,192,10,Modul 10: Studi Kasus Lanjutan,43.0
+1561,193,1,Modul 1: Pengenalan & Overview,14.0
+1562,193,2,Modul 2: Konsep Dasar,37.0
+1563,193,3,Modul 3: Studi Kasus 1,46.0
+1564,193,4,Modul 4: Praktik Langsung,52.0
+1565,193,5,Modul 5: Studi Kasus 2,33.0
+1566,193,6,Modul 6: Teknik Lanjutan,30.0
+1567,193,7,Modul 7: Tools & Best Practices,51.0
+1568,193,8,Modul 8: Project Mini,29.0
+1569,193,9,Modul 9: Evaluasi & Quiz,32.0
+1570,194,1,Modul 1: Pengenalan & Overview,38.0
+1571,194,2,Modul 2: Konsep Dasar,38.0
+1572,194,3,Modul 3: Studi Kasus 1,24.0
+1573,194,4,Modul 4: Praktik Langsung,33.0
+1574,195,1,Modul 1: Pengenalan & Overview,56.0
+1575,195,2,Modul 2: Konsep Dasar,17.0
+1576,195,3,Modul 3: Studi Kasus 1,25.0
+1577,195,4,Modul 4: Praktik Langsung,19.0
+1578,195,5,Modul 5: Studi Kasus 2,33.5
+1579,195,6,Modul 6: Teknik Lanjutan,54.0
+1580,195,7,Modul 7: Tools & Best Practices,29.0
+1581,195,8,Modul 8: Project Mini,11.0
+1582,195,9,Modul 9: Evaluasi & Quiz,57.0
+1583,196,1,Modul 1: Pengenalan & Overview,23.0
+1584,196,2,Modul 2: Konsep Dasar,58.0
+1585,196,3,Modul 3: Studi Kasus 1,40.0
+1586,196,4,Modul 4: Praktik Langsung,19.0
+1587,196,5,Modul 5: Studi Kasus 2,34.0
+1588,196,6,Modul 6: Teknik Lanjutan,47.0
+1589,196,7,Modul 7: Tools & Best Practices,43.0
+1590,196,8,Modul 8: Project Mini,20.0
+1591,196,9,Modul 9: Evaluasi & Quiz,22.0
+1592,197,1,Modul 1: Pengenalan & Overview,49.0
+1593,197,2,Modul 2: Konsep Dasar,39.0
+1594,197,3,Modul 3: Studi Kasus 1,10.0
+1595,197,4,Modul 4: Praktik Langsung,52.0
+1596,197,5,Modul 5: Studi Kasus 2,52.0
+1597,197,6,Modul 6: Teknik Lanjutan,40.4
+1598,198,1,Modul 1: Pengenalan & Overview,51.0
+1599,198,2,Modul 2: Konsep Dasar,34.0
+1600,198,3,Modul 3: Studi Kasus 1,55.0
+1601,198,4,Modul 4: Praktik Langsung,30.0
+1602,198,5,Modul 5: Studi Kasus 2,48.0
+1603,198,6,Modul 6: Teknik Lanjutan,21.0
+1604,198,7,Modul 7: Tools & Best Practices,39.0
+1605,198,8,Modul 8: Project Mini,55.0
+1606,198,9,Modul 9: Evaluasi & Quiz,25.0
+1607,199,1,Modul 1: Pengenalan & Overview,29.0
+1608,199,2,Modul 2: Konsep Dasar,35.0
+1609,199,3,Modul 3: Studi Kasus 1,11.0
+1610,199,4,Modul 4: Praktik Langsung,32.0
+1611,199,5,Modul 5: Studi Kasus 2,29.0
+1612,199,6,Modul 6: Teknik Lanjutan,42.0
+1613,199,7,Modul 7: Tools & Best Practices,13.0
+1614,200,1,Modul 1: Pengenalan & Overview,34.0
+1615,200,2,Modul 2: Konsep Dasar,11.0
+1616,200,3,Modul 3: Studi Kasus 1,27.0
+1617,200,4,Modul 4: Praktik Langsung,31.0
+1618,200,5,Modul 5: Studi Kasus 2,52.0
+1619,200,6,Modul 6: Teknik Lanjutan,56.0
+1620,200,7,Modul 7: Tools & Best Practices,53.0
+1621,200,8,Modul 8: Project Mini,50.0
+1622,200,9,Modul 9: Evaluasi & Quiz,36.0
+1623,200,10,Modul 10: Studi Kasus Lanjutan,19.0
+1624,201,1,Modul 1: Pengenalan & Overview,29.0
+1625,201,2,Modul 2: Konsep Dasar,31.0
+1626,201,3,Modul 3: Studi Kasus 1,18.0
+1627,201,4,Modul 4: Praktik Langsung,18.0
+1628,201,5,Modul 5: Studi Kasus 2,53.0
+1629,201,6,Modul 6: Teknik Lanjutan,18.0
+1630,201,7,Modul 7: Tools & Best Practices,55.0
+1631,201,8,Modul 8: Project Mini,18.0
+1632,201,9,Modul 9: Evaluasi & Quiz,59.0
+1633,201,10,Modul 10: Studi Kasus Lanjutan,46.0
+1634,201,11,Modul 11: Optimasi & Tips,30.0
+1635,202,1,Modul 1: Pengenalan & Overview,44.0
+1636,202,2,Modul 2: Konsep Dasar,17.0
+1637,202,3,Modul 3: Studi Kasus 1,19.0
+1638,202,4,Modul 4: Praktik Langsung,58.0
+1639,202,5,Modul 5: Studi Kasus 2,36.0
+1640,202,6,Modul 6: Teknik Lanjutan,29.0
+1641,202,7,Modul 7: Tools & Best Practices,50.0
+1642,202,8,Modul 8: Project Mini,27.0
+1643,202,9,Modul 9: Evaluasi & Quiz,22.0
+1644,202,10,Modul 10: Studi Kasus Lanjutan,21.0
+1645,203,1,Modul 1: Pengenalan & Overview,49.0
+1646,203,2,Modul 2: Konsep Dasar,48.0
+1647,203,3,Modul 3: Studi Kasus 1,24.0
+1648,203,4,Modul 4: Praktik Langsung,24.0
+1649,203,5,Modul 5: Studi Kasus 2,32.0
+1650,204,1,Modul 1: Pengenalan & Overview,59.0
+1651,204,2,Modul 2: Konsep Dasar,42.0
+1652,204,3,Modul 3: Studi Kasus 1,40.0
+1653,204,4,Modul 4: Praktik Langsung,33.0
+1654,204,5,Modul 5: Studi Kasus 2,34.0
+1655,204,6,Modul 6: Teknik Lanjutan,18.0
+1656,204,7,Modul 7: Tools & Best Practices,24.0
+1657,204,8,Modul 8: Project Mini,58.0
+1658,204,9,Modul 9: Evaluasi & Quiz,27.0
+1659,205,1,Modul 1: Pengenalan & Overview,24.0
+1660,205,2,Modul 2: Konsep Dasar,22.0
+1661,205,3,Modul 3: Studi Kasus 1,14.0
+1662,205,4,Modul 4: Praktik Langsung,38.0
+1663,205,5,Modul 5: Studi Kasus 2,41.0
+1664,206,1,Modul 1: Pengenalan & Overview,39.0
+1665,206,2,Modul 2: Konsep Dasar,37.0
+1666,206,3,Modul 3: Studi Kasus 1,12.0
+1667,206,4,Modul 4: Praktik Langsung,34.0
+1668,206,5,Modul 5: Studi Kasus 2,35.0
+1669,206,6,Modul 6: Teknik Lanjutan,57.0
+1670,206,7,Modul 7: Tools & Best Practices,44.0
+1671,206,8,Modul 8: Project Mini,55.0
+1672,206,9,Modul 9: Evaluasi & Quiz,43.0
+1673,206,10,Modul 10: Studi Kasus Lanjutan,39.0
+1674,206,11,Modul 11: Optimasi & Tips,12.0
+1675,207,1,Modul 1: Pengenalan & Overview,25.0
+1676,207,2,Modul 2: Konsep Dasar,35.0
+1677,207,3,Modul 3: Studi Kasus 1,12.0
+1678,207,4,Modul 4: Praktik Langsung,43.0
+1679,207,5,Modul 5: Studi Kasus 2,13.0
+1680,207,6,Modul 6: Teknik Lanjutan,38.0
+1681,208,1,Modul 1: Pengenalan & Overview,29.0
+1682,208,2,Modul 2: Konsep Dasar,28.0
+1683,208,3,Modul 3: Studi Kasus 1,37.0
+1684,208,4,Modul 4: Praktik Langsung,13.0
+1685,208,5,Modul 5: Studi Kasus 2,19.0
+1686,208,6,Modul 6: Teknik Lanjutan,51.0
+1687,208,7,Modul 7: Tools & Best Practices,56.0
+1688,208,8,Modul 8: Project Mini,21.0
+1689,208,9,Modul 9: Evaluasi & Quiz,54.0
+1690,209,1,Modul 1: Pengenalan & Overview,35.0
+1691,209,2,Modul 2: Konsep Dasar,38.0
+1692,209,3,Modul 3: Studi Kasus 1,39.0
+1693,209,4,Modul 4: Praktik Langsung,55.0
+1694,209,5,Modul 5: Studi Kasus 2,39.0
+1695,209,6,Modul 6: Teknik Lanjutan,30.0
+1696,210,1,Modul 1: Pengenalan & Overview,55.0
+1697,210,2,Modul 2: Konsep Dasar,55.0
+1698,210,3,Modul 3: Studi Kasus 1,15.0
+1699,210,4,Modul 4: Praktik Langsung,38.0
+1700,210,5,Modul 5: Studi Kasus 2,15.0
+1701,210,6,Modul 6: Teknik Lanjutan,34.0
+1702,210,7,Modul 7: Tools & Best Practices,42.0
+1703,211,1,Modul 1: Pengenalan & Overview,20.0
+1704,211,2,Modul 2: Konsep Dasar,34.0
+1705,211,3,Modul 3: Studi Kasus 1,20.0
+1706,211,4,Modul 4: Praktik Langsung,46.0
+1707,211,5,Modul 5: Studi Kasus 2,19.0
+1708,212,1,Modul 1: Pengenalan & Overview,19.0
+1709,212,2,Modul 2: Konsep Dasar,55.0
+1710,212,3,Modul 3: Studi Kasus 1,29.0
+1711,212,4,Modul 4: Praktik Langsung,59.0
+1712,212,5,Modul 5: Studi Kasus 2,28.0
+1713,213,1,Modul 1: Pengenalan & Overview,17.0
+1714,213,2,Modul 2: Konsep Dasar,32.90909090909091
+1715,213,3,Modul 3: Studi Kasus 1,58.0
+1716,213,4,Modul 4: Praktik Langsung,39.0
+1717,213,5,Modul 5: Studi Kasus 2,41.0
+1718,213,6,Modul 6: Teknik Lanjutan,10.0
+1719,213,7,Modul 7: Tools & Best Practices,41.0
+1720,213,8,Modul 8: Project Mini,47.0
+1721,213,9,Modul 9: Evaluasi & Quiz,39.0
+1722,213,10,Modul 10: Studi Kasus Lanjutan,15.0
+1723,213,11,Modul 11: Optimasi & Tips,10.0
+1724,213,12,Modul 12: Final Project,45.0
+1725,214,1,Modul 1: Pengenalan & Overview,50.0
+1726,214,2,Modul 2: Konsep Dasar,23.0
+1727,214,3,Modul 3: Studi Kasus 1,19.0
+1728,214,4,Modul 4: Praktik Langsung,32.0
+1729,214,5,Modul 5: Studi Kasus 2,12.0
+1730,214,6,Modul 6: Teknik Lanjutan,48.0
+1731,214,7,Modul 7: Tools & Best Practices,15.0
+1732,214,8,Modul 8: Project Mini,36.0
+1733,214,9,Modul 9: Evaluasi & Quiz,20.0
+1734,214,10,Modul 10: Studi Kasus Lanjutan,49.0
+1735,214,11,Modul 11: Optimasi & Tips,54.0
+1736,214,12,Modul 12: Final Project,60.0
+1737,215,1,Modul 1: Pengenalan & Overview,39.0
+1738,215,2,Modul 2: Konsep Dasar,33.0
+1739,215,3,Modul 3: Studi Kasus 1,15.0
+1740,215,4,Modul 4: Praktik Langsung,30.0
+1741,215,5,Modul 5: Studi Kasus 2,34.0
+1742,215,6,Modul 6: Teknik Lanjutan,58.0
+1743,215,7,Modul 7: Tools & Best Practices,45.0
+1744,215,8,Modul 8: Project Mini,40.0
+1745,215,9,Modul 9: Evaluasi & Quiz,54.0
+1746,215,10,Modul 10: Studi Kasus Lanjutan,31.0
+1747,216,1,Modul 1: Pengenalan & Overview,43.0
+1748,216,2,Modul 2: Konsep Dasar,23.0
+1749,216,3,Modul 3: Studi Kasus 1,16.0
+1750,216,4,Modul 4: Praktik Langsung,50.0
+1751,216,5,Modul 5: Studi Kasus 2,15.0
+1752,216,6,Modul 6: Teknik Lanjutan,54.0
+1753,217,1,Modul 1: Pengenalan & Overview,60.0
+1754,217,2,Modul 2: Konsep Dasar,28.0
+1755,217,3,Modul 3: Studi Kasus 1,30.0
+1756,217,4,Modul 4: Praktik Langsung,46.0
+1757,217,5,Modul 5: Studi Kasus 2,32.0
+1758,217,6,Modul 6: Teknik Lanjutan,49.0
+1759,217,7,Modul 7: Tools & Best Practices,43.0
+1760,217,8,Modul 8: Project Mini,41.0
+1761,217,9,Modul 9: Evaluasi & Quiz,21.0
+1762,217,10,Modul 10: Studi Kasus Lanjutan,24.0
+1763,217,11,Modul 11: Optimasi & Tips,35.0
+1764,217,12,Modul 12: Final Project,11.0
+1765,218,1,Modul 1: Pengenalan & Overview,60.0
+1766,218,2,Modul 2: Konsep Dasar,23.0
+1767,218,3,Modul 3: Studi Kasus 1,36.0
+1768,218,4,Modul 4: Praktik Langsung,31.0
+1769,218,5,Modul 5: Studi Kasus 2,50.0
+1770,218,6,Modul 6: Teknik Lanjutan,50.0
+1771,219,1,Modul 1: Pengenalan & Overview,28.0
+1772,219,2,Modul 2: Konsep Dasar,14.0
+1773,219,3,Modul 3: Studi Kasus 1,42.0
+1774,219,4,Modul 4: Praktik Langsung,34.25
+1775,219,5,Modul 5: Studi Kasus 2,53.0
+1776,220,1,Modul 1: Pengenalan & Overview,35.0
+1777,220,2,Modul 2: Konsep Dasar,49.0
+1778,220,3,Modul 3: Studi Kasus 1,21.0
+1779,220,4,Modul 4: Praktik Langsung,31.0
+1780,220,5,Modul 5: Studi Kasus 2,40.0
+1781,220,6,Modul 6: Teknik Lanjutan,12.0
+1782,221,1,Modul 1: Pengenalan & Overview,40.0
+1783,221,2,Modul 2: Konsep Dasar,39.0
+1784,221,3,Modul 3: Studi Kasus 1,44.0
+1785,221,4,Modul 4: Praktik Langsung,39.0
+1786,221,5,Modul 5: Studi Kasus 2,36.0
+1787,222,1,Modul 1: Pengenalan & Overview,13.0
+1788,222,2,Modul 2: Konsep Dasar,29.0
+1789,222,3,Modul 3: Studi Kasus 1,53.0
+1790,222,4,Modul 4: Praktik Langsung,30.545454545454547
+1791,222,5,Modul 5: Studi Kasus 2,46.0
+1792,222,6,Modul 6: Teknik Lanjutan,60.0
+1793,222,7,Modul 7: Tools & Best Practices,19.0
+1794,222,8,Modul 8: Project Mini,11.0
+1795,222,9,Modul 9: Evaluasi & Quiz,34.0
+1796,222,10,Modul 10: Studi Kasus Lanjutan,20.0
+1797,222,11,Modul 11: Optimasi & Tips,34.0
+1798,222,12,Modul 12: Final Project,17.0
+1799,223,1,Modul 1: Pengenalan & Overview,58.0
+1800,223,2,Modul 2: Konsep Dasar,30.0
+1801,223,3,Modul 3: Studi Kasus 1,27.0
+1802,223,4,Modul 4: Praktik Langsung,41.0
+1803,223,5,Modul 5: Studi Kasus 2,33.0
+1804,224,1,Modul 1: Pengenalan & Overview,29.0
+1805,224,2,Modul 2: Konsep Dasar,29.0
+1806,224,3,Modul 3: Studi Kasus 1,33.0
+1807,224,4,Modul 4: Praktik Langsung,59.0
+1808,224,5,Modul 5: Studi Kasus 2,15.0
+1809,224,6,Modul 6: Teknik Lanjutan,11.0
+1810,224,7,Modul 7: Tools & Best Practices,42.0
+1811,224,8,Modul 8: Project Mini,31.0
+1812,224,9,Modul 9: Evaluasi & Quiz,56.0
+1813,225,1,Modul 1: Pengenalan & Overview,29.0
+1814,225,2,Modul 2: Konsep Dasar,19.0
+1815,225,3,Modul 3: Studi Kasus 1,16.0
+1816,225,4,Modul 4: Praktik Langsung,43.0
+1817,225,5,Modul 5: Studi Kasus 2,18.0
+1818,225,6,Modul 6: Teknik Lanjutan,12.0
+1819,225,7,Modul 7: Tools & Best Practices,55.0
+1820,225,8,Modul 8: Project Mini,25.5
+1821,225,9,Modul 9: Evaluasi & Quiz,12.0
+1822,226,1,Modul 1: Pengenalan & Overview,48.0
+1823,226,2,Modul 2: Konsep Dasar,31.0
+1824,226,3,Modul 3: Studi Kasus 1,12.0
+1825,226,4,Modul 4: Praktik Langsung,59.0
+1826,226,5,Modul 5: Studi Kasus 2,29.0
+1827,226,6,Modul 6: Teknik Lanjutan,58.0
+1828,226,7,Modul 7: Tools & Best Practices,23.0
+1829,226,8,Modul 8: Project Mini,22.0
+1830,226,9,Modul 9: Evaluasi & Quiz,44.0
+1831,226,10,Modul 10: Studi Kasus Lanjutan,38.0
+1832,226,11,Modul 11: Optimasi & Tips,27.0
+1833,227,1,Modul 1: Pengenalan & Overview,27.0
+1834,227,2,Modul 2: Konsep Dasar,49.0
+1835,227,3,Modul 3: Studi Kasus 1,16.0
+1836,227,4,Modul 4: Praktik Langsung,32.0
+1837,227,5,Modul 5: Studi Kasus 2,27.0
+1838,227,6,Modul 6: Teknik Lanjutan,55.0
+1839,227,7,Modul 7: Tools & Best Practices,46.0
+1840,227,8,Modul 8: Project Mini,14.0
+1841,227,9,Modul 9: Evaluasi & Quiz,31.0
+1842,228,1,Modul 1: Pengenalan & Overview,13.0
+1843,228,2,Modul 2: Konsep Dasar,40.0
+1844,228,3,Modul 3: Studi Kasus 1,13.0
+1845,228,4,Modul 4: Praktik Langsung,13.0
+1846,228,5,Modul 5: Studi Kasus 2,35.0
+1847,228,6,Modul 6: Teknik Lanjutan,48.0
+1848,228,7,Modul 7: Tools & Best Practices,50.0
+1849,228,8,Modul 8: Project Mini,54.0
+1850,228,9,Modul 9: Evaluasi & Quiz,32.0
+1851,228,10,Modul 10: Studi Kasus Lanjutan,22.0
+1852,228,11,Modul 11: Optimasi & Tips,52.0
+1853,229,1,Modul 1: Pengenalan & Overview,15.0
+1854,229,2,Modul 2: Konsep Dasar,58.0
+1855,229,3,Modul 3: Studi Kasus 1,46.0
+1856,229,4,Modul 4: Praktik Langsung,54.0
+1857,229,5,Modul 5: Studi Kasus 2,39.0
+1858,229,6,Modul 6: Teknik Lanjutan,51.0
+1859,229,7,Modul 7: Tools & Best Practices,39.0
+1860,230,1,Modul 1: Pengenalan & Overview,24.0
+1861,230,2,Modul 2: Konsep Dasar,49.0
+1862,230,3,Modul 3: Studi Kasus 1,33.0
+1863,230,4,Modul 4: Praktik Langsung,54.0
+1864,230,5,Modul 5: Studi Kasus 2,31.0
+1865,230,6,Modul 6: Teknik Lanjutan,30.0
+1866,230,7,Modul 7: Tools & Best Practices,11.0
+1867,230,8,Modul 8: Project Mini,17.0
+1868,230,9,Modul 9: Evaluasi & Quiz,39.0
+1869,230,10,Modul 10: Studi Kasus Lanjutan,28.0
+1870,230,11,Modul 11: Optimasi & Tips,48.0
+1871,230,12,Modul 12: Final Project,42.0
+1872,231,1,Modul 1: Pengenalan & Overview,55.0
+1873,231,2,Modul 2: Konsep Dasar,30.0
+1874,231,3,Modul 3: Studi Kasus 1,14.0
+1875,231,4,Modul 4: Praktik Langsung,44.0
+1876,232,1,Modul 1: Pengenalan & Overview,47.0
+1877,232,2,Modul 2: Konsep Dasar,49.0
+1878,232,3,Modul 3: Studi Kasus 1,20.0
+1879,232,4,Modul 4: Praktik Langsung,34.0
+1880,232,5,Modul 5: Studi Kasus 2,23.0
+1881,232,6,Modul 6: Teknik Lanjutan,47.0
+1882,232,7,Modul 7: Tools & Best Practices,37.0
+1883,232,8,Modul 8: Project Mini,31.0
+1884,232,9,Modul 9: Evaluasi & Quiz,25.0
+1885,232,10,Modul 10: Studi Kasus Lanjutan,52.0
+1886,233,1,Modul 1: Pengenalan & Overview,55.0
+1887,233,2,Modul 2: Konsep Dasar,41.0
+1888,233,3,Modul 3: Studi Kasus 1,48.0
+1889,233,4,Modul 4: Praktik Langsung,45.0
+1890,233,5,Modul 5: Studi Kasus 2,38.0
+1891,233,6,Modul 6: Teknik Lanjutan,35.0
+1892,233,7,Modul 7: Tools & Best Practices,16.0
+1893,233,8,Modul 8: Project Mini,48.0
+1894,233,9,Modul 9: Evaluasi & Quiz,34.0
+1895,233,10,Modul 10: Studi Kasus Lanjutan,51.0
+1896,234,1,Modul 1: Pengenalan & Overview,15.0
+1897,234,2,Modul 2: Konsep Dasar,18.0
+1898,234,3,Modul 3: Studi Kasus 1,58.0
+1899,234,4,Modul 4: Praktik Langsung,10.0
+1900,234,5,Modul 5: Studi Kasus 2,52.0
+1901,234,6,Modul 6: Teknik Lanjutan,44.0
+1902,234,7,Modul 7: Tools & Best Practices,49.0
+1903,234,8,Modul 8: Project Mini,22.0
+1904,234,9,Modul 9: Evaluasi & Quiz,30.0
+1905,234,10,Modul 10: Studi Kasus Lanjutan,60.0
+1906,234,11,Modul 11: Optimasi & Tips,29.0
+1907,234,12,Modul 12: Final Project,37.0
+1908,235,1,Modul 1: Pengenalan & Overview,32.0
+1909,235,2,Modul 2: Konsep Dasar,29.272727272727273
+1910,235,3,Modul 3: Studi Kasus 1,42.0
+1911,235,4,Modul 4: Praktik Langsung,18.0
+1912,235,5,Modul 5: Studi Kasus 2,13.0
+1913,235,6,Modul 6: Teknik Lanjutan,45.0
+1914,235,7,Modul 7: Tools & Best Practices,10.0
+1915,235,8,Modul 8: Project Mini,32.0
+1916,235,9,Modul 9: Evaluasi & Quiz,28.0
+1917,235,10,Modul 10: Studi Kasus Lanjutan,25.0
+1918,235,11,Modul 11: Optimasi & Tips,47.0
+1919,235,12,Modul 12: Final Project,30.0
+1920,236,1,Modul 1: Pengenalan & Overview,35.0
+1921,236,2,Modul 2: Konsep Dasar,44.0
+1922,236,3,Modul 3: Studi Kasus 1,21.0
+1923,236,4,Modul 4: Praktik Langsung,22.0
+1924,236,5,Modul 5: Studi Kasus 2,33.0
+1925,236,6,Modul 6: Teknik Lanjutan,19.0
+1926,236,7,Modul 7: Tools & Best Practices,52.0
+1927,236,8,Modul 8: Project Mini,10.0
+1928,237,1,Modul 1: Pengenalan & Overview,11.0
+1929,237,2,Modul 2: Konsep Dasar,41.0
+1930,237,3,Modul 3: Studi Kasus 1,18.0
+1931,237,4,Modul 4: Praktik Langsung,51.0
+1932,238,1,Modul 1: Pengenalan & Overview,39.0
+1933,238,2,Modul 2: Konsep Dasar,54.0
+1934,238,3,Modul 3: Studi Kasus 1,37.0
+1935,238,4,Modul 4: Praktik Langsung,39.0
+1936,238,5,Modul 5: Studi Kasus 2,45.0
+1937,238,6,Modul 6: Teknik Lanjutan,34.0
+1938,238,7,Modul 7: Tools & Best Practices,21.0
+1939,238,8,Modul 8: Project Mini,10.0
+1940,238,9,Modul 9: Evaluasi & Quiz,56.0
+1941,238,10,Modul 10: Studi Kasus Lanjutan,42.0
+1942,238,11,Modul 11: Optimasi & Tips,44.0
+1943,239,1,Modul 1: Pengenalan & Overview,12.0
+1944,239,2,Modul 2: Konsep Dasar,46.0
+1945,239,3,Modul 3: Studi Kasus 1,33.0
+1946,239,4,Modul 4: Praktik Langsung,40.0
+1947,239,5,Modul 5: Studi Kasus 2,15.0
+1948,240,1,Modul 1: Pengenalan & Overview,56.0
+1949,240,2,Modul 2: Konsep Dasar,58.0
+1950,240,3,Modul 3: Studi Kasus 1,39.0
+1951,240,4,Modul 4: Praktik Langsung,43.0
+1952,240,5,Modul 5: Studi Kasus 2,15.0
+1953,240,6,Modul 6: Teknik Lanjutan,50.0
+1954,240,7,Modul 7: Tools & Best Practices,52.0
+1955,240,8,Modul 8: Project Mini,50.0
+1956,240,9,Modul 9: Evaluasi & Quiz,47.0
+1957,240,10,Modul 10: Studi Kasus Lanjutan,13.0
+1958,240,11,Modul 11: Optimasi & Tips,44.0
+1959,240,12,Modul 12: Final Project,40.0
+1960,241,1,Modul 1: Pengenalan & Overview,40.0
+1961,241,2,Modul 2: Konsep Dasar,31.0
+1962,241,3,Modul 3: Studi Kasus 1,28.0
+1963,241,4,Modul 4: Praktik Langsung,12.0
+1964,241,5,Modul 5: Studi Kasus 2,48.0
+1965,241,6,Modul 6: Teknik Lanjutan,56.0
+1966,241,7,Modul 7: Tools & Best Practices,26.0
+1967,242,1,Modul 1: Pengenalan & Overview,40.0
+1968,242,2,Modul 2: Konsep Dasar,46.0
+1969,242,3,Modul 3: Studi Kasus 1,28.0
+1970,242,4,Modul 4: Praktik Langsung,49.0
+1971,242,5,Modul 5: Studi Kasus 2,41.0
+1972,242,6,Modul 6: Teknik Lanjutan,42.0
+1973,242,7,Modul 7: Tools & Best Practices,60.0
+1974,242,8,Modul 8: Project Mini,18.0
+1975,242,9,Modul 9: Evaluasi & Quiz,27.0
+1976,242,10,Modul 10: Studi Kasus Lanjutan,10.0
+1977,242,11,Modul 11: Optimasi & Tips,48.0
+1978,243,1,Modul 1: Pengenalan & Overview,47.0
+1979,243,2,Modul 2: Konsep Dasar,52.0
+1980,243,3,Modul 3: Studi Kasus 1,21.0
+1981,243,4,Modul 4: Praktik Langsung,54.0
+1982,243,5,Modul 5: Studi Kasus 2,21.0
+1983,243,6,Modul 6: Teknik Lanjutan,12.0
+1984,243,7,Modul 7: Tools & Best Practices,15.0
+1985,244,1,Modul 1: Pengenalan & Overview,48.0
+1986,244,2,Modul 2: Konsep Dasar,19.0
+1987,244,3,Modul 3: Studi Kasus 1,58.0
+1988,244,4,Modul 4: Praktik Langsung,59.0
+1989,244,5,Modul 5: Studi Kasus 2,52.0
+1990,244,6,Modul 6: Teknik Lanjutan,50.0
+1991,244,7,Modul 7: Tools & Best Practices,46.0
+1992,244,8,Modul 8: Project Mini,32.0
+1993,244,9,Modul 9: Evaluasi & Quiz,26.0
+1994,245,1,Modul 1: Pengenalan & Overview,17.0
+1995,245,2,Modul 2: Konsep Dasar,39.0
+1996,245,3,Modul 3: Studi Kasus 1,29.0
+1997,245,4,Modul 4: Praktik Langsung,58.0
+1998,245,5,Modul 5: Studi Kasus 2,24.0
+1999,245,6,Modul 6: Teknik Lanjutan,55.0
+2000,245,7,Modul 7: Tools & Best Practices,26.0
+2001,245,8,Modul 8: Project Mini,35.0
+2002,245,9,Modul 9: Evaluasi & Quiz,38.0
+2003,245,10,Modul 10: Studi Kasus Lanjutan,30.0
+2004,245,11,Modul 11: Optimasi & Tips,53.0
+2005,245,12,Modul 12: Final Project,16.0
+2006,246,1,Modul 1: Pengenalan & Overview,50.0
+2007,246,2,Modul 2: Konsep Dasar,37.0
+2008,246,3,Modul 3: Studi Kasus 1,51.0
+2009,246,4,Modul 4: Praktik Langsung,31.0
+2010,246,5,Modul 5: Studi Kasus 2,16.0
+2011,246,6,Modul 6: Teknik Lanjutan,47.0
+2012,246,7,Modul 7: Tools & Best Practices,59.0
+2013,246,8,Modul 8: Project Mini,25.0
+2014,247,1,Modul 1: Pengenalan & Overview,47.0
+2015,247,2,Modul 2: Konsep Dasar,43.0
+2016,247,3,Modul 3: Studi Kasus 1,54.0
+2017,247,4,Modul 4: Praktik Langsung,30.0
+2018,247,5,Modul 5: Studi Kasus 2,38.0
+2019,247,6,Modul 6: Teknik Lanjutan,38.0
+2020,247,7,Modul 7: Tools & Best Practices,16.0
+2021,248,1,Modul 1: Pengenalan & Overview,53.0
+2022,248,2,Modul 2: Konsep Dasar,24.0
+2023,248,3,Modul 3: Studi Kasus 1,26.0
+2024,248,4,Modul 4: Praktik Langsung,11.0
+2025,248,5,Modul 5: Studi Kasus 2,13.0
+2026,248,6,Modul 6: Teknik Lanjutan,52.0
+2027,248,7,Modul 7: Tools & Best Practices,23.0
+2028,249,1,Modul 1: Pengenalan & Overview,50.0
+2029,249,2,Modul 2: Konsep Dasar,17.0
+2030,249,3,Modul 3: Studi Kasus 1,48.0
+2031,249,4,Modul 4: Praktik Langsung,52.0
+2032,249,5,Modul 5: Studi Kasus 2,51.0
+2033,249,6,Modul 6: Teknik Lanjutan,21.0
+2034,249,7,Modul 7: Tools & Best Practices,54.0
+2035,249,8,Modul 8: Project Mini,28.0
+2036,249,9,Modul 9: Evaluasi & Quiz,14.0
+2037,250,1,Modul 1: Pengenalan & Overview,27.0
+2038,250,2,Modul 2: Konsep Dasar,54.0
+2039,250,3,Modul 3: Studi Kasus 1,59.0
+2040,250,4,Modul 4: Praktik Langsung,26.0
+2041,250,5,Modul 5: Studi Kasus 2,14.0
+2042,250,6,Modul 6: Teknik Lanjutan,13.0
+2043,251,1,Modul 1: Pengenalan & Overview,31.0
+2044,251,2,Modul 2: Konsep Dasar,26.0
+2045,251,3,Modul 3: Studi Kasus 1,26.0
+2046,251,4,Modul 4: Praktik Langsung,14.0
+2047,251,5,Modul 5: Studi Kasus 2,22.0
+2048,251,6,Modul 6: Teknik Lanjutan,21.0
+2049,251,7,Modul 7: Tools & Best Practices,16.0
+2050,251,8,Modul 8: Project Mini,59.0
+2051,252,1,Modul 1: Pengenalan & Overview,49.0
+2052,252,2,Modul 2: Konsep Dasar,38.0
+2053,252,3,Modul 3: Studi Kasus 1,16.0
+2054,252,4,Modul 4: Praktik Langsung,14.0
+2055,252,5,Modul 5: Studi Kasus 2,26.0
+2056,252,6,Modul 6: Teknik Lanjutan,11.0
+2057,252,7,Modul 7: Tools & Best Practices,19.0
+2058,252,8,Modul 8: Project Mini,10.0
+2059,252,9,Modul 9: Evaluasi & Quiz,52.0
+2060,252,10,Modul 10: Studi Kasus Lanjutan,19.0
+2061,253,1,Modul 1: Pengenalan & Overview,35.0
+2062,253,2,Modul 2: Konsep Dasar,42.0
+2063,253,3,Modul 3: Studi Kasus 1,59.0
+2064,253,4,Modul 4: Praktik Langsung,37.0
+2065,253,5,Modul 5: Studi Kasus 2,56.0
+2066,253,6,Modul 6: Teknik Lanjutan,60.0
+2067,253,7,Modul 7: Tools & Best Practices,49.0
+2068,253,8,Modul 8: Project Mini,54.0
+2069,254,1,Modul 1: Pengenalan & Overview,40.0
+2070,254,2,Modul 2: Konsep Dasar,44.0
+2071,254,3,Modul 3: Studi Kasus 1,32.0
+2072,254,4,Modul 4: Praktik Langsung,29.0
+2073,254,5,Modul 5: Studi Kasus 2,50.0
+2074,254,6,Modul 6: Teknik Lanjutan,51.0
+2075,254,7,Modul 7: Tools & Best Practices,44.0
+2076,254,8,Modul 8: Project Mini,31.0
+2077,254,9,Modul 9: Evaluasi & Quiz,39.0
+2078,254,10,Modul 10: Studi Kasus Lanjutan,28.0
+2079,254,11,Modul 11: Optimasi & Tips,21.0
+2080,255,1,Modul 1: Pengenalan & Overview,34.0
+2081,255,2,Modul 2: Konsep Dasar,29.0
+2082,255,3,Modul 3: Studi Kasus 1,16.0
+2083,255,4,Modul 4: Praktik Langsung,32.0
+2084,255,5,Modul 5: Studi Kasus 2,50.0
+2085,255,6,Modul 6: Teknik Lanjutan,22.0
+2086,255,7,Modul 7: Tools & Best Practices,22.0
+2087,256,1,Modul 1: Pengenalan & Overview,47.0
+2088,256,2,Modul 2: Konsep Dasar,34.0
+2089,256,3,Modul 3: Studi Kasus 1,44.0
+2090,256,4,Modul 4: Praktik Langsung,41.0
+2091,257,1,Modul 1: Pengenalan & Overview,38.0
+2092,257,2,Modul 2: Konsep Dasar,11.0
+2093,257,3,Modul 3: Studi Kasus 1,13.0
+2094,257,4,Modul 4: Praktik Langsung,56.0
+2095,257,5,Modul 5: Studi Kasus 2,17.0
+2096,257,6,Modul 6: Teknik Lanjutan,51.0
+2097,257,7,Modul 7: Tools & Best Practices,39.0
+2098,257,8,Modul 8: Project Mini,44.0
+2099,257,9,Modul 9: Evaluasi & Quiz,47.0
+2100,257,10,Modul 10: Studi Kasus Lanjutan,14.0
+2101,258,1,Modul 1: Pengenalan & Overview,19.0
+2102,258,2,Modul 2: Konsep Dasar,11.0
+2103,258,3,Modul 3: Studi Kasus 1,49.0
+2104,258,4,Modul 4: Praktik Langsung,54.0
+2105,258,5,Modul 5: Studi Kasus 2,10.0
+2106,258,6,Modul 6: Teknik Lanjutan,13.0
+2107,259,1,Modul 1: Pengenalan & Overview,60.0
+2108,259,2,Modul 2: Konsep Dasar,49.0
+2109,259,3,Modul 3: Studi Kasus 1,47.0
+2110,259,4,Modul 4: Praktik Langsung,16.0
+2111,259,5,Modul 5: Studi Kasus 2,48.0
+2112,259,6,Modul 6: Teknik Lanjutan,24.0
+2113,259,7,Modul 7: Tools & Best Practices,22.0
+2114,259,8,Modul 8: Project Mini,57.0
+2115,259,9,Modul 9: Evaluasi & Quiz,30.0
+2116,259,10,Modul 10: Studi Kasus Lanjutan,53.0
+2117,259,11,Modul 11: Optimasi & Tips,18.0
+2118,260,1,Modul 1: Pengenalan & Overview,60.0
+2119,260,2,Modul 2: Konsep Dasar,12.0
+2120,260,3,Modul 3: Studi Kasus 1,31.0
+2121,260,4,Modul 4: Praktik Langsung,27.0
+2122,260,5,Modul 5: Studi Kasus 2,36.0
+2123,260,6,Modul 6: Teknik Lanjutan,33.0
+2124,260,7,Modul 7: Tools & Best Practices,38.0
+2125,261,1,Modul 1: Pengenalan & Overview,47.0
+2126,261,2,Modul 2: Konsep Dasar,16.0
+2127,261,3,Modul 3: Studi Kasus 1,50.0
+2128,261,4,Modul 4: Praktik Langsung,59.0
+2129,261,5,Modul 5: Studi Kasus 2,41.0
+2130,261,6,Modul 6: Teknik Lanjutan,10.0
+2131,261,7,Modul 7: Tools & Best Practices,15.0
+2132,261,8,Modul 8: Project Mini,47.0
+2133,262,1,Modul 1: Pengenalan & Overview,36.0
+2134,262,2,Modul 2: Konsep Dasar,60.0
+2135,262,3,Modul 3: Studi Kasus 1,54.0
+2136,262,4,Modul 4: Praktik Langsung,19.0
+2137,262,5,Modul 5: Studi Kasus 2,43.0
+2138,262,6,Modul 6: Teknik Lanjutan,25.0
+2139,262,7,Modul 7: Tools & Best Practices,49.0
+2140,262,8,Modul 8: Project Mini,48.0
+2141,262,9,Modul 9: Evaluasi & Quiz,41.0
+2142,263,1,Modul 1: Pengenalan & Overview,15.0
+2143,263,2,Modul 2: Konsep Dasar,60.0
+2144,263,3,Modul 3: Studi Kasus 1,37.72727272727273
+2145,263,4,Modul 4: Praktik Langsung,25.0
+2146,263,5,Modul 5: Studi Kasus 2,43.0
+2147,263,6,Modul 6: Teknik Lanjutan,49.0
+2148,263,7,Modul 7: Tools & Best Practices,58.0
+2149,263,8,Modul 8: Project Mini,42.0
+2150,263,9,Modul 9: Evaluasi & Quiz,59.0
+2151,263,10,Modul 10: Studi Kasus Lanjutan,23.0
+2152,263,11,Modul 11: Optimasi & Tips,22.0
+2153,263,12,Modul 12: Final Project,19.0
+2154,264,1,Modul 1: Pengenalan & Overview,40.0
+2155,264,2,Modul 2: Konsep Dasar,20.0
+2156,264,3,Modul 3: Studi Kasus 1,12.0
+2157,264,4,Modul 4: Praktik Langsung,33.0
+2158,264,5,Modul 5: Studi Kasus 2,37.0
+2159,264,6,Modul 6: Teknik Lanjutan,49.0
+2160,264,7,Modul 7: Tools & Best Practices,58.0
+2161,264,8,Modul 8: Project Mini,16.0
+2162,264,9,Modul 9: Evaluasi & Quiz,44.0
+2163,264,10,Modul 10: Studi Kasus Lanjutan,60.0
+2164,264,11,Modul 11: Optimasi & Tips,42.0
+2165,264,12,Modul 12: Final Project,25.0
+2166,265,1,Modul 1: Pengenalan & Overview,47.0
+2167,265,2,Modul 2: Konsep Dasar,36.0
+2168,265,3,Modul 3: Studi Kasus 1,53.0
+2169,265,4,Modul 4: Praktik Langsung,24.0
+2170,265,5,Modul 5: Studi Kasus 2,30.0
+2171,265,6,Modul 6: Teknik Lanjutan,25.0
+2172,265,7,Modul 7: Tools & Best Practices,22.0
+2173,266,1,Modul 1: Pengenalan & Overview,24.0
+2174,266,2,Modul 2: Konsep Dasar,47.0
+2175,266,3,Modul 3: Studi Kasus 1,37.0
+2176,266,4,Modul 4: Praktik Langsung,49.0
+2177,266,5,Modul 5: Studi Kasus 2,34.0
+2178,266,6,Modul 6: Teknik Lanjutan,39.0
+2179,267,1,Modul 1: Pengenalan & Overview,50.0
+2180,267,2,Modul 2: Konsep Dasar,27.0
+2181,267,3,Modul 3: Studi Kasus 1,18.0
+2182,267,4,Modul 4: Praktik Langsung,46.0
+2183,267,5,Modul 5: Studi Kasus 2,18.0
+2184,267,6,Modul 6: Teknik Lanjutan,39.0
+2185,267,7,Modul 7: Tools & Best Practices,20.0
+2186,267,8,Modul 8: Project Mini,24.0
+2187,267,9,Modul 9: Evaluasi & Quiz,48.0
+2188,267,10,Modul 10: Studi Kasus Lanjutan,60.0
+2189,268,1,Modul 1: Pengenalan & Overview,49.0
+2190,268,2,Modul 2: Konsep Dasar,46.0
+2191,268,3,Modul 3: Studi Kasus 1,24.0
+2192,268,4,Modul 4: Praktik Langsung,43.0
+2193,268,5,Modul 5: Studi Kasus 2,23.0
+2194,268,6,Modul 6: Teknik Lanjutan,39.0
+2195,268,7,Modul 7: Tools & Best Practices,56.0
+2196,268,8,Modul 8: Project Mini,25.0
+2197,268,9,Modul 9: Evaluasi & Quiz,37.0
+2198,269,1,Modul 1: Pengenalan & Overview,47.0
+2199,269,2,Modul 2: Konsep Dasar,46.0
+2200,269,3,Modul 3: Studi Kasus 1,36.0
+2201,269,4,Modul 4: Praktik Langsung,12.0
+2202,269,5,Modul 5: Studi Kasus 2,56.0
+2203,269,6,Modul 6: Teknik Lanjutan,12.0
+2204,269,7,Modul 7: Tools & Best Practices,35.0
+2205,269,8,Modul 8: Project Mini,54.0
+2206,269,9,Modul 9: Evaluasi & Quiz,38.0
+2207,269,10,Modul 10: Studi Kasus Lanjutan,15.0
+2208,270,1,Modul 1: Pengenalan & Overview,10.0
+2209,270,2,Modul 2: Konsep Dasar,36.0
+2210,270,3,Modul 3: Studi Kasus 1,18.0
+2211,270,4,Modul 4: Praktik Langsung,25.0
+2212,270,5,Modul 5: Studi Kasus 2,34.7
+2213,270,6,Modul 6: Teknik Lanjutan,52.0
+2214,270,7,Modul 7: Tools & Best Practices,55.0
+2215,270,8,Modul 8: Project Mini,46.0
+2216,270,9,Modul 9: Evaluasi & Quiz,11.0
+2217,270,10,Modul 10: Studi Kasus Lanjutan,39.0
+2218,270,11,Modul 11: Optimasi & Tips,55.0
+2219,271,1,Modul 1: Pengenalan & Overview,60.0
+2220,271,2,Modul 2: Konsep Dasar,50.0
+2221,271,3,Modul 3: Studi Kasus 1,53.5
+2222,271,4,Modul 4: Praktik Langsung,50.0
+2223,271,5,Modul 5: Studi Kasus 2,54.0
+2224,272,1,Modul 1: Pengenalan & Overview,12.0
+2225,272,2,Modul 2: Konsep Dasar,58.0
+2226,272,3,Modul 3: Studi Kasus 1,49.0
+2227,272,4,Modul 4: Praktik Langsung,60.0
+2228,272,5,Modul 5: Studi Kasus 2,53.0
+2229,272,6,Modul 6: Teknik Lanjutan,31.0
+2230,272,7,Modul 7: Tools & Best Practices,13.0
+2231,272,8,Modul 8: Project Mini,53.0
+2232,273,1,Modul 1: Pengenalan & Overview,13.0
+2233,273,2,Modul 2: Konsep Dasar,33.0
+2234,273,3,Modul 3: Studi Kasus 1,12.0
+2235,273,4,Modul 4: Praktik Langsung,21.0
+2236,273,5,Modul 5: Studi Kasus 2,55.0
+2237,273,6,Modul 6: Teknik Lanjutan,55.0
+2238,273,7,Modul 7: Tools & Best Practices,18.0
+2239,273,8,Modul 8: Project Mini,25.0
+2240,273,9,Modul 9: Evaluasi & Quiz,51.0
+2241,273,10,Modul 10: Studi Kasus Lanjutan,58.0
+2242,273,11,Modul 11: Optimasi & Tips,54.0
+2243,274,1,Modul 1: Pengenalan & Overview,57.0
+2244,274,2,Modul 2: Konsep Dasar,30.0
+2245,274,3,Modul 3: Studi Kasus 1,27.0
+2246,274,4,Modul 4: Praktik Langsung,37.0
+2247,274,5,Modul 5: Studi Kasus 2,14.0
+2248,274,6,Modul 6: Teknik Lanjutan,38.0
+2249,274,7,Modul 7: Tools & Best Practices,43.0
+2250,274,8,Modul 8: Project Mini,40.0
+2251,274,9,Modul 9: Evaluasi & Quiz,53.0
+2252,274,10,Modul 10: Studi Kasus Lanjutan,28.0
+2253,275,1,Modul 1: Pengenalan & Overview,33.0
+2254,275,2,Modul 2: Konsep Dasar,54.0
+2255,275,3,Modul 3: Studi Kasus 1,14.0
+2256,275,4,Modul 4: Praktik Langsung,39.0
+2257,276,1,Modul 1: Pengenalan & Overview,35.0
+2258,276,2,Modul 2: Konsep Dasar,28.0
+2259,276,3,Modul 3: Studi Kasus 1,14.0
+2260,276,4,Modul 4: Praktik Langsung,27.0
+2261,276,5,Modul 5: Studi Kasus 2,19.0
+2262,276,6,Modul 6: Teknik Lanjutan,23.0
+2263,276,7,Modul 7: Tools & Best Practices,50.0
+2264,276,8,Modul 8: Project Mini,36.0
+2265,276,9,Modul 9: Evaluasi & Quiz,44.0
+2266,276,10,Modul 10: Studi Kasus Lanjutan,40.0
+2267,277,1,Modul 1: Pengenalan & Overview,38.0
+2268,277,2,Modul 2: Konsep Dasar,11.0
+2269,277,3,Modul 3: Studi Kasus 1,14.0
+2270,277,4,Modul 4: Praktik Langsung,24.0
+2271,277,5,Modul 5: Studi Kasus 2,43.0
+2272,277,6,Modul 6: Teknik Lanjutan,36.0
+2273,277,7,Modul 7: Tools & Best Practices,51.0
+2274,277,8,Modul 8: Project Mini,30.0
+2275,278,1,Modul 1: Pengenalan & Overview,52.0
+2276,278,2,Modul 2: Konsep Dasar,45.0
+2277,278,3,Modul 3: Studi Kasus 1,29.0
+2278,278,4,Modul 4: Praktik Langsung,60.0
+2279,278,5,Modul 5: Studi Kasus 2,60.0
+2280,278,6,Modul 6: Teknik Lanjutan,40.0
+2281,279,1,Modul 1: Pengenalan & Overview,28.0
+2282,279,2,Modul 2: Konsep Dasar,13.0
+2283,279,3,Modul 3: Studi Kasus 1,28.0
+2284,279,4,Modul 4: Praktik Langsung,20.0
+2285,279,5,Modul 5: Studi Kasus 2,20.0
+2286,279,6,Modul 6: Teknik Lanjutan,28.0
+2287,279,7,Modul 7: Tools & Best Practices,21.0
+2288,279,8,Modul 8: Project Mini,54.0
+2289,279,9,Modul 9: Evaluasi & Quiz,60.0
+2290,279,10,Modul 10: Studi Kasus Lanjutan,25.0
+2291,279,11,Modul 11: Optimasi & Tips,30.0
+2292,279,12,Modul 12: Final Project,38.0
+2293,280,1,Modul 1: Pengenalan & Overview,21.0
+2294,280,2,Modul 2: Konsep Dasar,55.0
+2295,280,3,Modul 3: Studi Kasus 1,30.0
+2296,280,4,Modul 4: Praktik Langsung,19.0
+2297,280,5,Modul 5: Studi Kasus 2,44.0
+2298,280,6,Modul 6: Teknik Lanjutan,44.0
+2299,280,7,Modul 7: Tools & Best Practices,11.0
+2300,280,8,Modul 8: Project Mini,41.0
+2301,280,9,Modul 9: Evaluasi & Quiz,39.0
+2302,281,1,Modul 1: Pengenalan & Overview,48.0
+2303,281,2,Modul 2: Konsep Dasar,57.0
+2304,281,3,Modul 3: Studi Kasus 1,42.0
+2305,281,4,Modul 4: Praktik Langsung,55.0
+2306,281,5,Modul 5: Studi Kasus 2,28.0
+2307,281,6,Modul 6: Teknik Lanjutan,58.0
+2308,282,1,Modul 1: Pengenalan & Overview,46.0
+2309,282,2,Modul 2: Konsep Dasar,46.0
+2310,282,3,Modul 3: Studi Kasus 1,38.0
+2311,282,4,Modul 4: Praktik Langsung,17.0
+2312,282,5,Modul 5: Studi Kasus 2,12.0
+2313,282,6,Modul 6: Teknik Lanjutan,45.0
+2314,283,1,Modul 1: Pengenalan & Overview,11.0
+2315,283,2,Modul 2: Konsep Dasar,24.0
+2316,283,3,Modul 3: Studi Kasus 1,15.0
+2317,283,4,Modul 4: Praktik Langsung,48.0
+2318,283,5,Modul 5: Studi Kasus 2,47.0
+2319,283,6,Modul 6: Teknik Lanjutan,60.0
+2320,283,7,Modul 7: Tools & Best Practices,27.0
+2321,283,8,Modul 8: Project Mini,15.0
+2322,283,9,Modul 9: Evaluasi & Quiz,38.0
+2323,283,10,Modul 10: Studi Kasus Lanjutan,15.0
+2324,284,1,Modul 1: Pengenalan & Overview,35.0
+2325,284,2,Modul 2: Konsep Dasar,30.0
+2326,284,3,Modul 3: Studi Kasus 1,42.0
+2327,284,4,Modul 4: Praktik Langsung,52.0
+2328,284,5,Modul 5: Studi Kasus 2,19.0
+2329,284,6,Modul 6: Teknik Lanjutan,37.0
+2330,284,7,Modul 7: Tools & Best Practices,34.0
+2331,284,8,Modul 8: Project Mini,32.0
+2332,284,9,Modul 9: Evaluasi & Quiz,38.0
+2333,284,10,Modul 10: Studi Kasus Lanjutan,15.0
+2334,284,11,Modul 11: Optimasi & Tips,38.0
+2335,284,12,Modul 12: Final Project,36.0
+2336,285,1,Modul 1: Pengenalan & Overview,28.0
+2337,285,2,Modul 2: Konsep Dasar,56.0
+2338,285,3,Modul 3: Studi Kasus 1,37.0
+2339,285,4,Modul 4: Praktik Langsung,36.0
+2340,285,5,Modul 5: Studi Kasus 2,47.0
+2341,285,6,Modul 6: Teknik Lanjutan,19.0
+2342,285,7,Modul 7: Tools & Best Practices,40.0
+2343,286,1,Modul 1: Pengenalan & Overview,43.0
+2344,286,2,Modul 2: Konsep Dasar,14.0
+2345,286,3,Modul 3: Studi Kasus 1,47.0
+2346,286,4,Modul 4: Praktik Langsung,38.625
+2347,286,5,Modul 5: Studi Kasus 2,50.0
+2348,286,6,Modul 6: Teknik Lanjutan,36.0
+2349,286,7,Modul 7: Tools & Best Practices,39.0
+2350,286,8,Modul 8: Project Mini,58.0
+2351,286,9,Modul 9: Evaluasi & Quiz,22.0
+2352,287,1,Modul 1: Pengenalan & Overview,34.0
+2353,287,2,Modul 2: Konsep Dasar,41.0
+2354,287,3,Modul 3: Studi Kasus 1,29.0
+2355,287,4,Modul 4: Praktik Langsung,29.0
+2356,287,5,Modul 5: Studi Kasus 2,57.0
+2357,287,6,Modul 6: Teknik Lanjutan,11.0
+2358,287,7,Modul 7: Tools & Best Practices,19.0
+2359,287,8,Modul 8: Project Mini,50.0
+2360,287,9,Modul 9: Evaluasi & Quiz,40.0
+2361,287,10,Modul 10: Studi Kasus Lanjutan,52.0
+2362,287,11,Modul 11: Optimasi & Tips,36.0
+2363,288,1,Modul 1: Pengenalan & Overview,54.0
+2364,288,2,Modul 2: Konsep Dasar,11.0
+2365,288,3,Modul 3: Studi Kasus 1,27.0
+2366,288,4,Modul 4: Praktik Langsung,14.0
+2367,288,5,Modul 5: Studi Kasus 2,33.0
+2368,288,6,Modul 6: Teknik Lanjutan,46.0
+2369,288,7,Modul 7: Tools & Best Practices,26.0
+2370,288,8,Modul 8: Project Mini,40.0
+2371,288,9,Modul 9: Evaluasi & Quiz,17.0
+2372,288,10,Modul 10: Studi Kasus Lanjutan,56.0
+2373,288,11,Modul 11: Optimasi & Tips,26.0
+2374,288,12,Modul 12: Final Project,13.0
+2375,289,1,Modul 1: Pengenalan & Overview,39.0
+2376,289,2,Modul 2: Konsep Dasar,18.0
+2377,289,3,Modul 3: Studi Kasus 1,13.0
+2378,289,4,Modul 4: Praktik Langsung,36.0
+2379,289,5,Modul 5: Studi Kasus 2,32.0
+2380,289,6,Modul 6: Teknik Lanjutan,28.0
+2381,289,7,Modul 7: Tools & Best Practices,14.0
+2382,289,8,Modul 8: Project Mini,59.0
+2383,289,9,Modul 9: Evaluasi & Quiz,58.0
+2384,290,1,Modul 1: Pengenalan & Overview,58.0
+2385,290,2,Modul 2: Konsep Dasar,30.0
+2386,290,3,Modul 3: Studi Kasus 1,53.0
+2387,290,4,Modul 4: Praktik Langsung,27.0
+2388,290,5,Modul 5: Studi Kasus 2,54.0
+2389,290,6,Modul 6: Teknik Lanjutan,44.0
+2390,290,7,Modul 7: Tools & Best Practices,46.0
+2391,290,8,Modul 8: Project Mini,43.0
+2392,290,9,Modul 9: Evaluasi & Quiz,59.0
+2393,291,1,Modul 1: Pengenalan & Overview,31.0
+2394,291,2,Modul 2: Konsep Dasar,20.0
+2395,291,3,Modul 3: Studi Kasus 1,19.0
+2396,291,4,Modul 4: Praktik Langsung,22.0
+2397,291,5,Modul 5: Studi Kasus 2,45.0
+2398,291,6,Modul 6: Teknik Lanjutan,43.0
+2399,291,7,Modul 7: Tools & Best Practices,55.0
+2400,291,8,Modul 8: Project Mini,58.0
+2401,292,1,Modul 1: Pengenalan & Overview,36.0
+2402,292,2,Modul 2: Konsep Dasar,14.0
+2403,292,3,Modul 3: Studi Kasus 1,18.0
+2404,292,4,Modul 4: Praktik Langsung,40.0
+2405,292,5,Modul 5: Studi Kasus 2,54.0
+2406,292,6,Modul 6: Teknik Lanjutan,38.0
+2407,292,7,Modul 7: Tools & Best Practices,48.0
+2408,293,1,Modul 1: Pengenalan & Overview,31.0
+2409,293,2,Modul 2: Konsep Dasar,29.0
+2410,293,3,Modul 3: Studi Kasus 1,17.0
+2411,293,4,Modul 4: Praktik Langsung,54.0
+2412,293,5,Modul 5: Studi Kasus 2,24.0
+2413,293,6,Modul 6: Teknik Lanjutan,23.0
+2414,293,7,Modul 7: Tools & Best Practices,15.0
+2415,293,8,Modul 8: Project Mini,58.0
+2416,294,1,Modul 1: Pengenalan & Overview,32.375
+2417,294,2,Modul 2: Konsep Dasar,40.0
+2418,294,3,Modul 3: Studi Kasus 1,12.0
+2419,294,4,Modul 4: Praktik Langsung,12.0
+2420,294,5,Modul 5: Studi Kasus 2,42.0
+2421,294,6,Modul 6: Teknik Lanjutan,40.0
+2422,294,7,Modul 7: Tools & Best Practices,26.0
+2423,294,8,Modul 8: Project Mini,29.0
+2424,294,9,Modul 9: Evaluasi & Quiz,58.0
+2425,295,1,Modul 1: Pengenalan & Overview,17.0
+2426,295,2,Modul 2: Konsep Dasar,23.0
+2427,295,3,Modul 3: Studi Kasus 1,22.0
+2428,295,4,Modul 4: Praktik Langsung,32.0
+2429,296,1,Modul 1: Pengenalan & Overview,19.0
+2430,296,2,Modul 2: Konsep Dasar,27.0
+2431,296,3,Modul 3: Studi Kasus 1,32.0
+2432,296,4,Modul 4: Praktik Langsung,42.0
+2433,296,5,Modul 5: Studi Kasus 2,49.0
+2434,296,6,Modul 6: Teknik Lanjutan,46.0
+2435,297,1,Modul 1: Pengenalan & Overview,47.0
+2436,297,2,Modul 2: Konsep Dasar,43.0
+2437,297,3,Modul 3: Studi Kasus 1,22.0
+2438,297,4,Modul 4: Praktik Langsung,20.0
+2439,298,1,Modul 1: Pengenalan & Overview,37.27272727272727
+2440,298,2,Modul 2: Konsep Dasar,56.0
+2441,298,3,Modul 3: Studi Kasus 1,23.0
+2442,298,4,Modul 4: Praktik Langsung,55.0
+2443,298,5,Modul 5: Studi Kasus 2,54.0
+2444,298,6,Modul 6: Teknik Lanjutan,38.0
+2445,298,7,Modul 7: Tools & Best Practices,16.0
+2446,298,8,Modul 8: Project Mini,32.0
+2447,298,9,Modul 9: Evaluasi & Quiz,37.0
+2448,298,10,Modul 10: Studi Kasus Lanjutan,24.0
+2449,298,11,Modul 11: Optimasi & Tips,58.0
+2450,298,12,Modul 12: Final Project,17.0
+2451,299,1,Modul 1: Pengenalan & Overview,43.0
+2452,299,2,Modul 2: Konsep Dasar,58.0
+2453,299,3,Modul 3: Studi Kasus 1,28.0
+2454,299,4,Modul 4: Praktik Langsung,12.0
+2455,299,5,Modul 5: Studi Kasus 2,41.0
+2456,299,6,Modul 6: Teknik Lanjutan,28.0
+2457,299,7,Modul 7: Tools & Best Practices,57.0
+2458,299,8,Modul 8: Project Mini,38.0
+2459,299,9,Modul 9: Evaluasi & Quiz,36.0
+2460,299,10,Modul 10: Studi Kasus Lanjutan,37.0
+2461,299,11,Modul 11: Optimasi & Tips,14.0
+2462,299,12,Modul 12: Final Project,40.0
+2463,300,1,Modul 1: Pengenalan & Overview,33.0
+2464,300,2,Modul 2: Konsep Dasar,53.0
+2465,300,3,Modul 3: Studi Kasus 1,16.0
+2466,300,4,Modul 4: Praktik Langsung,43.0
+2467,300,5,Modul 5: Studi Kasus 2,15.0
